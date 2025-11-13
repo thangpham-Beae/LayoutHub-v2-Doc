@@ -28,14 +28,14 @@
 * [Restore default template](page-and-section-management/restore-default-template.md)
 * [Duplicate a template](page-and-section-management/duplicate-a-template.md)
 * [Integrations](page-and-section-management/integrations.md)
-* Advanced Feature
+* [Advanced Feature](page-and-section-management/advanced-feature/README.md)
   * [What is Advance Feature?](page-and-section-management/advanced-feature/what-is-advance-feature.md)
   * [A/B testing](page-and-section-management/advanced-feature/a-b-testing.md)
   * [Performance](page-and-section-management/advanced-feature/performance.md)
   * [Live Translation](page-and-section-management/advanced-feature/live-translation.md)
   * [Analytics](page-and-section-management/advanced-feature/analytics.md)
   * [Multi market support](page-and-section-management/advanced-feature/multi-market-support.md)
-* Legacy Editor
+* [Legacy Editor](page-and-section-management/legacy-editor/README.md)
   * [Legacy Editor](page-and-section-management/legacy-editor/legacy-editor.md)
 
 ## FAQ and Common issues
@@ -49,7 +49,7 @@
 
 ## Shopify Apps Integrations
 
-* [Product review ](shopify-apps-integrations/product-review.md)
+* [Product review](shopify-apps-integrations/product-review.md)
 
 ***
 
