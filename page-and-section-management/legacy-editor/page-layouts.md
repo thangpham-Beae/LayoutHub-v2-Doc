@@ -30,13 +30,16 @@ With LayoutHub, you don’t have to be a developer to create a page. With Layout
 
 **Step 1:** From the menu on the left side, Select **Standard** **Page >** Click **Add new page.** I suppose I would like to design for my **Homepage.** (You can also design for the other pages such as Product page, Collection page, Blog page,... etc)
 
-![](../../.gitbook/assets/homepage6.png)
+<figure><img src="../.gitbook/assets/homepage.png" alt=""><figcaption></figcaption></figure>
+
 
 **Step 2:** Choose **show** or **hide** Header and Footer.
-
-![](../../.gitbook/assets/create-new-layout2%20\(1\).png)
+ 
+![](<../../.gitbook/assets/create-new-layout2 (1).png>)
 
 **Step 3:** Select **Blank layout**
+
+<figure><img src="../.gitbook/assets/homepage1.png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/homepage1.png)
 
@@ -48,7 +51,7 @@ With LayoutHub, you don’t have to be a developer to create a page. With Layout
 
 ![](../../.gitbook/assets/homepage3.png)
 
-You can also add a **design block** to your page.
+You can also add a **design block** to your page.&#x20;
 
 ![](../../.gitbook/assets/homepage4.png)
 
@@ -62,7 +65,7 @@ Select any **Layouts** and click **Install button.** Then you start customizing 
 
 ## How to configure a Page layout
 
-Now you get the Homepage Layout sample imported to your store.
+Now you get the Homepage Layout sample imported to your store.&#x20;
 
 {% hint style="info" %}
 Only the body of Homepage imported. The Header and Footer section are **fixed and initial** from your current theme.
@@ -86,7 +89,7 @@ There are 2 tabs that you can switch over them to make changes: **Sections** + *
 
 ![](../../.gitbook/assets/Screenshot_54.png)
 
-* **Settings**: Include settings of global, apply a color or gap at once time onto all the pages. All websites are different! Use **Primary color** to make a perfect match with your corporate and brand identity. You can change visual appearance literally in seconds and determine which color, font you want to affect – combine your design with your brand as a unique design.
+* **Settings**: Include settings of global, apply a color or gap at once time  onto all the pages. All websites are different! Use **Primary color** to make a perfect match with your corporate and brand identity. You can change visual appearance literally in seconds and determine which color, font you want to affect – combine your design with your brand as a unique design.&#x20;
 
 ![](../../.gitbook/assets/homepage9.png)
 
