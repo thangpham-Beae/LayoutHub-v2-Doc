@@ -1,8 +1,10 @@
-# How to install LayoutHub?
+---
+description: >-
+  In this article, we’ll guide you through the process of installing LayoutHub
+  on your Shopify site step by step.
+---
 
-{% hint style="info" %}
-In this article, we’ll guide you through the process of **installing LayoutHub** on your Shopify site step by step.
-{% endhint %}
+# How to install LayoutHub?
 
 {% hint style="info" %}
 To explore more about our pricing plan and select your best fit. Check out [this article](../account-and-billing/plan-and-pricing.md)

@@ -35,15 +35,17 @@
   * [Live Translation](page-and-section-management/advanced-feature/live-translation.md)
   * [Analytics](page-and-section-management/advanced-feature/analytics.md)
   * [Multi market support](page-and-section-management/advanced-feature/multi-market-support.md)
-* [Legacy Editor](page-and-section-management/legacy-editor/README.md)
-  * [Create Layouts](page-and-section-management/legacy-editor/page-layouts.md)
-  * [Design Blocks](page-and-section-management/legacy-editor/design-blocks.md)
-  * [Export & Import](page-and-section-management/legacy-editor/export-and-import.md)
-  * [Edit Section Code](page-and-section-management/legacy-editor/edit-section-code.md)
-  * [Edit a Layout](page-and-section-management/legacy-editor/edit-a-layout.md)
-  * [Assign a Layout](page-and-section-management/legacy-editor/assign-product-layout.md)
-  * [Duplicate a Layout](page-and-section-management/legacy-editor/duplicate-a-layout.md)
-  * [Delete a Layout](page-and-section-management/legacy-editor/delete-a-layout.md)
+* Legacy Editor
+  * [Layout Management](page-and-section-management/legacy-editor/legacy-editor-1/README.md)
+    * [Create Layouts](page-and-section-management/legacy-editor/legacy-editor-1/page-layouts.md)
+    * [Delete a Layout](page-and-section-management/legacy-editor/legacy-editor-1/delete-a-layout.md)
+    * [Duplicate a Layout](page-and-section-management/legacy-editor/legacy-editor-1/duplicate-a-layout.md)
+    * [Assign a Layout](page-and-section-management/legacy-editor/legacy-editor-1/assign-product-layout.md)
+    * [Edit a Layout](page-and-section-management/legacy-editor/legacy-editor-1/edit-a-layout.md)
+    * [Edit Section Code](page-and-section-management/legacy-editor/legacy-editor-1/edit-section-code.md)
+    * [Export & Import](page-and-section-management/legacy-editor/legacy-editor-1/export-and-import.md)
+    * [Design Blocks](page-and-section-management/legacy-editor/legacy-editor-1/design-blocks.md)
+
 ## FAQ and Common issues
 
 * [FAQ](faq-and-common-issues/faq.md)
