@@ -37,6 +37,7 @@
   * [Multi market support](page-and-section-management/advanced-feature/multi-market-support.md)
 
 ## Legaxy Editor
+
   * [Layout Management](page-and-section-management/legaxy-editor/layout-management/README.md)
     * [Create Layouts](page-and-section-management/legaxy-editor/layout-management/page-layouts.md)
     * [Delete a Layout](page-and-section-management/legaxy-editor/layout-management/delete-a-layout.md)
