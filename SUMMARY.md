@@ -36,15 +36,14 @@
   * [Analytics](page-and-section-management/advanced-feature/analytics.md)
   * [Multi market support](page-and-section-management/advanced-feature/multi-market-support.md)
 * [Legacy Editor](page-and-section-management/legacy-editor/README.md)
-  * [Create Layouts](page-and-section-management/legacy-editor/create-layouts.md)
+  * [Create Layouts](page-and-section-management/legacy-editor/page-layouts.md)
   * [Design Blocks](page-and-section-management/legacy-editor/design-blocks.md)
   * [Export & Import](page-and-section-management/legacy-editor/export-and-import.md)
   * [Edit Section Code](page-and-section-management/legacy-editor/edit-section-code.md)
   * [Edit a Layout](page-and-section-management/legacy-editor/edit-a-layout.md)
-  * [Assign a Layout](page-and-section-management/legacy-editor/assign-a-layout.md)
+  * [Assign a Layout](page-and-section-management/legacy-editor/assign-product-layout.md)
   * [Duplicate a Layout](page-and-section-management/legacy-editor/duplicate-a-layout.md)
   * [Delete a Layout](page-and-section-management/legacy-editor/delete-a-layout.md)
-
 ## FAQ and Common issues
 
 * [FAQ](faq-and-common-issues/faq.md)
