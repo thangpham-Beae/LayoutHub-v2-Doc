@@ -30,19 +30,19 @@ If you don't want to use our available fully-made Layout samples, you can add on
 
 Step 1: Select a **Page > Click Customize.** I suppose I would like to design for my About page using pre-built blocks from our library‌.
 
-![](../../../.gitbook/assets/about-page.png)
+![](/.gitbook/assets/about-page.png)
 
 Step 2: Click **Add section**
 
-![](../../../.gitbook/assets/about-page1.png)
+![](/.gitbook/assets/about-page1.png)
 
 Our App have many types of Block(Section) that you can choose from categories widget.
 
-![](../../../.gitbook/assets/about-page2.png)
+![](/.gitbook/assets/about-page2.png)
 
 Step 3: Click **Import** button to import blocks.
 
-![](../../../.gitbook/assets/about-page3.png)
+![](/.gitbook/assets/about-page3.png)
 
 ## **How to configure a Block?**
 
@@ -52,7 +52,7 @@ Step 3: Click **Import** button to import blocks.
 {% tab title="Editing" %}
 **Editing:** to change texts, images, colors.
 
-![](../../../.gitbook/assets/about-page4.png)
+![](/.gitbook/assets/about-page4.png)
 {% endtab %}
 {% endtabs %}
 
@@ -60,7 +60,7 @@ Step 3: Click **Import** button to import blocks.
 {% tab title="Section" %}
 **Section:** to change entirely the background, section ID, margin and padding of the section.
 
-![](../../../.gitbook/assets/about-page5.png)
+![](/.gitbook/assets/about-page5.png)
 {% endtab %}
 {% endtabs %}
 
@@ -68,21 +68,21 @@ Step 3: Click **Import** button to import blocks.
 
 Every single one of Block has a **Section tab** to adjust the space and gaps between sections. Directly type a number of pixel (negative number acepted) to the corresponding **Margin values** here as the size of the gaps.
 
-![](../../../.gitbook/assets/Screenshot_23.png)
+![](/.gitbook/assets/Screenshot_23.png)
 
 **Result:**
 
-![](../../../.gitbook/assets/screenshot-layouthub-docs.myshopify.com-2019.11.png)
+![](/.gitbook/assets/screenshot-layouthub-docs.myshopify.com-2019.11.png)
 
 ## How to publish a customized blocks?
 
 Finally, after you had completed customizing your Layout, you can click **Publish Page** button.
 
-![](../../../.gitbook/assets/about-page6.png)
+![](/.gitbook/assets/about-page6.png)
 
 Enter a **Page Title, Page handle, Meta description** for this customized Layout and press **Publish now**.
 
-![](../../../.gitbook/assets/about-page7.png)
+![](/.gitbook/assets/about-page7.png)
 
 * **Page Title:** Enter your page title. This title will display as a link in search engine results. You can enter up to 55 characters in the title.
 * **Page handle or human url:** Enter your url, the URL can't contain any spaces.
