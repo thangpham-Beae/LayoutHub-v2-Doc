@@ -84,7 +84,7 @@ There are 2 tabs that you can switch over them to make changes: **Sections** + *
 
 * **Section**: include settings of each blocks: ex) Slide block, Collection block,...
 
-![](../../../.gitbook/assets/Screenshot_54.png)
+<figure><img src="../../../.gitbook/assets/Screenshot_54.png" alt="" width="305"><figcaption></figcaption></figure>
 
 * **Settings**: Include settings of global, apply a color or gap at once time onto all the pages. All websites are different! Use **Primary color** to make a perfect match with your corporate and brand identity. You can change visual appearance literally in seconds and determine which color, font you want to affect – combine your design with your brand as a unique design.
 
