@@ -12,15 +12,15 @@ Block example:
 
 * _**Collection banner block**_
 
-![Collection Banner block](../../../.gitbook/assets/Screenshot_141.png)
+![Collection Banner block](/.gitbook/assets/Screenshot_141.png)
 
 * _**Instagram Feed block**_
 
-![Instagram Feed block](../../../.gitbook/assets/Screenshot_142.png)
+![Instagram Feed block](/.gitbook/assets/Screenshot_142.png)
 
 * _**Product Grid block**_
 
-![Product Grid block](../../../.gitbook/assets/screenshot-lumise-demo.myshopify.com-2019.11.06-10_35_04.png)
+![Product Grid block](/.gitbook/assets/screenshot-lumise-demo.myshopify.com-2019.11.06-10_35_04.png)
 
 ## How to import a Block?
 
