@@ -35,16 +35,16 @@
   * [Live Translation](page-and-section-management/advanced-feature/live-translation.md)
   * [Analytics](page-and-section-management/advanced-feature/analytics.md)
   * [Multi market support](page-and-section-management/advanced-feature/multi-market-support.md)
-* [Legacy Editor](page-and-section-management/legacy-editor/README.md)
-  * [Layout Management](page-and-section-management/legacy-editor/layout-management/README.md)
-    * [Create Layouts](page-and-section-management/legacy-editor/layout-management/page-layouts.md)
-    * [Delete a Layout](page-and-section-management/legacy-editor/layout-management/delete-a-layout.md)
-    * [Duplicate a Layout](page-and-section-management/legacy-editor/layout-management/duplicate-a-layout.md)
-    * [Assign a Layout](page-and-section-management/legacy-editor/layout-management/assign-product-layout.md)
-    * [Edit a Layout](page-and-section-management/legacy-editor/layout-management/edit-a-layout.md)
-    * [Edit Section Code](page-and-section-management/legacy-editor/layout-management/edit-section-code.md)
-    * [Export & Import](page-and-section-management/legacy-editor/layout-management/export-and-import.md)
-    * [Design Blocks](page-and-section-management/legacy-editor/layout-management/design-blocks.md)
+* Legaxy Editor
+  * [Layout Management](page-and-section-management/legaxy-editor/layout-management/README.md)
+    * [Create Layouts](page-and-section-management/legaxy-editor/layout-management/page-layouts.md)
+    * [Delete a Layout](page-and-section-management/legaxy-editor/layout-management/delete-a-layout.md)
+    * [Duplicate a Layout](page-and-section-management/legaxy-editor/layout-management/duplicate-a-layout.md)
+    * [Assign a Layout](page-and-section-management/legaxy-editor/layout-management/assign-product-layout.md)
+    * [Edit a Layout](page-and-section-management/legaxy-editor/layout-management/edit-a-layout.md)
+    * [Edit Section Code](page-and-section-management/legaxy-editor/layout-management/edit-section-code.md)
+    * [Export & Import](page-and-section-management/legaxy-editor/layout-management/export-and-import.md)
+    * [Design Blocks](page-and-section-management/legaxy-editor/layout-management/design-blocks.md)
 
 ## FAQ and Common issues
 
