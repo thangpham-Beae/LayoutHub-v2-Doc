@@ -36,7 +36,7 @@
   * [Analytics](page-and-section-management/advanced-feature/analytics.md)
   * [Multi market support](page-and-section-management/advanced-feature/multi-market-support.md)
 * [Legacy Editor](page-and-section-management/legacy-editor/README.md)
-  * [Layout Management](page-and-section-management/legacy-editor/legacy-editor-1/README.md)
+  * [Layout Management](page-and-section-management/legacy-editor/layout-management/README.md)
     * [Create Layouts](page-and-section-management/legacy-editor/legacy-editor-1/page-layouts.md)
     * [Delete a Layout](page-and-section-management/legacy-editor/legacy-editor-1/delete-a-layout.md)
     * [Duplicate a Layout](page-and-section-management/legacy-editor/legacy-editor-1/duplicate-a-layout.md)
