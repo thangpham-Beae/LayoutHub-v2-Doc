@@ -2,7 +2,7 @@
 
 These settings allow you to set up the default color and typography for your store. Everytime you import a Layout from the library, you will have these color and font instantly working on it. It helps you ensure that every new Layout you created uses the font and color settings you want.
 
-![](../../.gitbook/assets/theme-setting.png)
+![](/.gitbook/assets/theme-setting.png)
 
 * **Color:** this color is the thematic color on every pre-built Layout. You can replace by your brand color and favorite color here.
 * **Font**: this font is the thematic font on every pre-built Layout. You can replace by your brand font and favorite font.

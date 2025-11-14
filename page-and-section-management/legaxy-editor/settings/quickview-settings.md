@@ -2,13 +2,13 @@
 
 Quickview function texts are changed easily by typing the replace words for each input field.
 
-![](../../.gitbook/assets/quickview-setting.png)
+![](/.gitbook/assets/quickview-setting.png)
 
 If you want to change all Quick view text, you can change here and Save. Then please go to your store clear the cache and reload to check.
 
 This is how Quick view module looks like on the front end.
 
-![](<../../.gitbook/assets/Screenshot_37 (1).png>)
+![](</.gitbook/assets/Screenshot_37 (1).png>)
 
 Learn more about Quick view add-on here [Product Quickview](https://docs.layouthub.com/user-guides/ad-ons/quickview-support)
 

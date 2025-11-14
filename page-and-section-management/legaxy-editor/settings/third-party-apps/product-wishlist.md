@@ -12,7 +12,7 @@ You can install the App here: [https://wishlist.layouthub.com/login](https://wis
 
 **App Front End**
 
-![](../../../.gitbook/assets/Screenshot_18.png)
+![](/.gitbook/assets/Screenshot_18.png)
 
 **App Admin Dashboard**
 
@@ -20,7 +20,7 @@ The Statistics in Dashboard will help you result in a promotion strategy to conv
 
 Checkout the guidelines for booting conversion rate [here](https://wiki.the4.co/documentation/how-to-convert-wishlists-to-sales/)
 
-![](<../../../.gitbook/assets/Screenshot_20 (1).png>)
+![](</.gitbook/assets/Screenshot_20 (1).png>)
 
 
 
