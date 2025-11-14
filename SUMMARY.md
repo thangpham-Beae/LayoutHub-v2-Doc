@@ -72,6 +72,7 @@
   * [Third party Apps](page-and-section-management/legaxy-editor/settings/third-party-apps/README.md)
     * [Product Review](page-and-section-management/legaxy-editor/settings/third-party-apps/product-review.md)
     * [Product Wishlist](page-and-section-management/legaxy-editor/settings/third-party-apps/product-wishlist.md)
+* [Trash](page-and-section-management/legaxy-editor/trash.md)
 
 ## FAQ and Common issues
 
