@@ -18,64 +18,64 @@ LayoutHub templates are continuously updated with the latest trends, designed to
 
 {% stepper %}
 {% step %}
-#### **Access LayoutHub Dashboard and create your first page**
+**Access LayoutHub Dashboard and create your first page**
 
 <figure><img src="../../.gitbook/assets/Screenshot_12-11-2025_141133_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### **Choose Your Editor Version**
+**Choose "New Editor V2"**
 
-You can choose between the **Legacy Editor** and **Editor V2**.
-
-<figure><img src="../../.gitbook/assets/Screenshot_12-11-2025_14231_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_14-11-2025_91923_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-&#x20;  Nếu bạn chọn phiên bản Legacy Editor, hãy tham khảo [LayoutHub Legacy Editor Document ](https://docs.layouthub.com/)
+If you choose the Legacy Editor version, please refer to the [LayoutHub Legacy Editor Document](broken-reference)
 {% endhint %}
 {% endstep %}
 
 {% step %}
-#### Pick a template&#x20;
+**Pick a template**
 
-1. Xác định page type mà bạn cần: Homepage; Product page; Collection page, etc.
-2. Click "Choose" để sử dụng template
+1. Select the Use case you want
+2. Click "Choose" to use the template
 
-<figure><img src="../../.gitbook/assets/Screenshot_12-11-2025_144058_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_14-11-2025_92546_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Mỗi page type sẽ có chức năng khác nhau, hãy tham khảo [Page Creation](../../page-and-section-management/page-creation.md) hoặc [LayoutHub Shopify Section](../../page-and-section-management/layouthub-shopify-section.md)
+Each page type will have different functions, please refer to [Page Creation](../../page-and-section-management/page-creation.md) or [LayoutHub Shopify Section](../../page-and-section-management/layouthub-shopify-section.md)
 {% endhint %}
 {% endstep %}
 
 {% step %}
-#### Edit
+**Edit sections and blocks using simple options that follow the same logic as the Shopify Customizer.**
 
-Chỉnh sửa section, block bằng các option đơn giản, logic tương tự Shopify Customizer
-
-<figure><img src="../../.gitbook/assets/Screenshot_12-11-2025_15433_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_14-11-2025_93342_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Tips: Click vào Section hoặc Block để hiển thị các option của Block hoặc Section đó.&#x20;
+**Tip:** Click on any Section or Block to display its corresponding options.
 {% endhint %}
-
-
 {% endstep %}
 
 {% step %}
-#### Save and Publish your page&#x20;
+**Save and Publish your page**
 
-**1. Save your page**&#x20;
+**1. Save your page**
 
-<figure><img src="../../.gitbook/assets/Screenshot_12-11-2025_16181_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_14-11-2025_93650_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 
-**2. Publish**&#x20;
+**2. Publish**
 
+1. Click **Publish button**
+2. Named your template
+3. Click **Publish button** again to publish template
 
+<figure><img src="../../.gitbook/assets/Screenshot_14-11-2025_94325_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-<figure><img src="../../.gitbook/assets/Screenshot_12-11-2025_162934_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
+{% step %}
+### Check your store front
 
-
+<figure><img src="../../.gitbook/assets/Screenshot_14-11-2025_95931_layouthub-thomas.myshopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
