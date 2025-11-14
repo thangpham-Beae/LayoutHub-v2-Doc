@@ -211,31 +211,8 @@ LayoutHub plans are monthly subscription-based or yearly subscription-based. If 
                     background-color: #ffffff;
                     text-align: left;
                     cursor: pointer;
-                " class="editable-cell" data-row="5" data-column="0" rowspan="5">Business growth</td><td style="
-                    border: 1px solid #dededf;
-                    padding: 8px;
-                    background-color: #ffffff;
-                    text-align: left;
-                    cursor: pointer;
-                " class="editable-cell" data-row="5" data-column="1">Cell 6-2</td><td style="
-                    border: 1px solid #dededf;
-                    padding: 8px;
-                    background-color: #ffffff;
-                    text-align: left;
-                    cursor: pointer;
-                " class="editable-cell" data-row="5" data-column="2">Cell 6-3</td><td style="
-                    border: 1px solid #dededf;
-                    padding: 8px;
-                    background-color: #ffffff;
-                    text-align: left;
-                    cursor: pointer;
-                " class="editable-cell" data-row="5" data-column="3">Cell 6-4</td><td style="
-                    border: 1px solid #dededf;
-                    padding: 8px;
-                    background-color: #ffffff;
-                    text-align: left;
-                    cursor: pointer;
-                " class="editable-cell" data-row="5" data-column="4">Cell 6-5</td></tr><tr><td style="
+                " class="editable-cell" data-row="5" data-column="0" rowspan="5">Business growth</td>
+                </tr><tr><td style="
                     border: 1px solid #dededf;
                     padding: 8px;
                     background-color: #ffffff;
