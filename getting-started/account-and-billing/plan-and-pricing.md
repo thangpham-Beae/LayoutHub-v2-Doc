@@ -52,7 +52,7 @@ LayoutHub plans are monthly subscription-based or yearly subscription-based. If 
 {% endstep %}
 
 {% step %}
-**Pick a plan you want and Upgrade**&#x20;
+**Pick a plan you want and Upgrade**
 
 <figure><img src="../../.gitbook/assets/Screenshot_14-11-2025_11111_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -62,7 +62,7 @@ LayoutHub plans are monthly subscription-based or yearly subscription-based. If 
 
 After clicking **Upgrade**, the system will take you to the **Plan confirmation page**
 
-You can choose to add the Add-on package or not then click **Confirm detail**
+You can choose to add the Add-on package or not then select **Confirm detail**
 
 <figure><img src="../../.gitbook/assets/Screenshot_14-11-2025_111448_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -70,11 +70,28 @@ After **Confirm detail** you can **enter the discount code** and select **Start 
 
 <figure><img src="../../.gitbook/assets/Screenshot_14-11-2025_113611_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
+
+{% step %}
+**Approve subscription**
+
+After clicking start plan, Shopify system will take you to **Approve subscription page**.
+
+Select **Approve** to confirm Plan activation and payment
+
+<figure><img src="../../.gitbook/assets/Screenshot_14-11-2025_143135_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+**All set**&#x20;
+
+After your plan activation and payment are confirmed, you will be redirected to the LayoutHub Switch Plan page, where you’ll see the message: “Subscription activated successfully! 🎉”
+
+<figure><img src="../../.gitbook/assets/Screenshot_14-11-2025_143935_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 {% endstepper %}
 
 {% hint style="info" %}
-Need advice on selecting a plan or want to get discount code?&#x20;
+Need advice on selecting a plan or want to get discount code?
 
 Feel free to reach us via **live chat** or at **support@layouthub.com**
 {% endhint %}
-
