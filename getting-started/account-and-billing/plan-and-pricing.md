@@ -21,7 +21,7 @@ LayoutHub plans are monthly subscription-based or yearly subscription-based. If 
 ## Pricing plan details
 
 |   |   |   |
-| - | - | - |
+|           |
 |   |   |   |
 |   |   |   |
 |   |   |   |
