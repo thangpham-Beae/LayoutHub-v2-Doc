@@ -63,6 +63,16 @@
   * [Article Templates](page-and-section-management/legaxy-editor/featured-elements/artical-templates.md)
   * [Insert section](page-and-section-management/legaxy-editor/featured-elements/insert-section.md)
 
+
+* [Settings](page-and-section-management/legaxy-editor/settings/README.md)
+  * [General](page-and-section-management/legaxy-editor/settings/general.md)
+  * [Theme Settings](page-and-section-management/legaxy-editor/settings/theme-settings.md)
+  * [Quickview Settings](page-and-section-management/legaxy-editor/settings/quickview-settings.md)
+  * [Swatch color settings](page-and-section-management/legaxy-editor/settings/swatch-color-settings.md)
+  * [Third party Apps](page-and-section-management/legaxy-editor/settings/third-party-apps/README.md)
+    * [Product Review](page-and-section-management/legaxy-editor/settings/third-party-apps/product-review.md)
+    * [Product Wishlist](page-and-section-management/legaxy-editor/settings/third-party-apps/product-wishlist.md)
+
 ## FAQ and Common issues
 
 * [FAQ](faq-and-common-issues/faq.md)
