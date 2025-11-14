@@ -47,6 +47,21 @@
   * [Export & Import](page-and-section-management/legaxy-editor/layout-management/export-and-import.md)
   * [Design Blocks](page-and-section-management/legaxy-editor/layout-management/design-blocks.md)
 * [Section Builder](page-and-section-management/legaxy-editor/section-builder.md)
+* [LayoutHub pages/templates](page-and-section-management/legaxy-editor/featured-elements/README.md)
+  * [Home Page](page-and-section-management/legaxy-editor/featured-elements/homepage/README.md)
+    * [Create additional Home Page](page-and-section-management/legaxy-editor/featured-elements/homepage/create-additional-home-page.md)
+    * [Make an existing page as home page](page-and-section-management/legaxy-editor/featured-elements/homepage/make-an-existing-page-as-home-page.md)
+    * [Restore to default Home Page](page-and-section-management/legaxy-editor/featured-elements/homepage/restore-to-default-home-page.md)
+    * [Customize Shopify Home Page](page-and-section-management/legaxy-editor/featured-elements/homepage/customize-shopify-home-page.md)
+  * [Sub-page](page-and-section-management/legaxy-editor/featured-elements/sub-page/README.md)
+    * [Contact Form](page-and-section-management/legaxy-editor/featured-elements/sub-page/third-party-email-subscribe.md)
+  * [Product Template](page-and-section-management/legaxy-editor/featured-elements/product-page/README.md)
+    * [Product Detail](page-and-section-management/legaxy-editor/featured-elements/product-page/general.md)
+    * [Related Product](page-and-section-management/legaxy-editor/featured-elements/product-page/related-product.md)
+  * [Collection Template](page-and-section-management/legaxy-editor/featured-elements/collection-page.md)
+  * [Blog Templates](page-and-section-management/legaxy-editor/featured-elements/blog-templates.md)
+  * [Article Templates](page-and-section-management/legaxy-editor/featured-elements/artical-templates.md)
+  * [Insert section](page-and-section-management/legaxy-editor/featured-elements/insert-section.md)
 
 ## FAQ and Common issues
 
