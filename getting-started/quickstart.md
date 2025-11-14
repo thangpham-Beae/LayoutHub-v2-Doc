@@ -1,4 +1,5 @@
 ---
+description: Overview of LayoutHub, Solutions and Key Features
 layout:
   width: default
   title:
@@ -17,4 +18,11 @@ layout:
 
 # What is LayoutHub?
 
-<figure><img src="../.gitbook/assets/homepage.png" alt=""><figcaption></figcaption></figure>
+## \[Video intro]
+
+**LayoutHub is Shopify’s easiest page builder, designed for every merchant — no technical skills required.**
+
+With LayoutHub, you can create a beautiful, high-converting store by simply selecting a template and editing it. **No coding, no drag-and-drop — just pick, edit, and publish.**
+
+Built with the mission of **helping merchants launch better e-commerce experiences**, LayoutHub makes it effortless to set up your store and boost your sales.
+
