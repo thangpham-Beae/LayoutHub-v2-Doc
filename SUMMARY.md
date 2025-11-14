@@ -47,6 +47,7 @@
     * [Edit Section Code](page-and-section-management/legaxy-editor/layout-management/edit-section-code.md)
     * [Export & Import](page-and-section-management/legaxy-editor/layout-management/export-and-import.md)
     * [Design Blocks](page-and-section-management/legaxy-editor/layout-management/design-blocks.md)
+  * [Section Builder](page-and-section-management/legaxy-editor/section-builder.md)
 
 ## FAQ and Common issues
 
