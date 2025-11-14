@@ -29,7 +29,7 @@ LayoutHub templates are continuously updated with the latest trends, designed to
 <figure><img src="../../.gitbook/assets/Screenshot_14-11-2025_91923_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If you choose the Legacy Editor version, please refer to the [LayoutHub Legacy Editor Document](broken-reference)
+If you choose the Legacy Editor version, please refer to the [LayoutHub Legacy Editor Document](broken-reference/)
 {% endhint %}
 {% endstep %}
 
@@ -73,9 +73,8 @@ Each page type will have different functions, please refer to [Page Creation](..
 {% endstep %}
 
 {% step %}
-### Check your store front
+#### Check your store front
 
 <figure><img src="../../.gitbook/assets/Screenshot_14-11-2025_95931_layouthub-thomas.myshopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
-

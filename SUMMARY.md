@@ -13,8 +13,7 @@
 * [Account and Billing](getting-started/account-and-billing/README.md)
   * [Free Trail](getting-started/account-and-billing/free-trail.md)
   * [Plan\&Pricing](getting-started/account-and-billing/plan-and-pricing.md)
-  * [Use discount code](getting-started/account-and-billing/use-discount-code.md)
-  * [Switch plan](getting-started/account-and-billing/switch-plan.md)
+  * [Change your plan](getting-started/account-and-billing/change-your-plan.md)
   * [Refund](getting-started/account-and-billing/refund.md)
   * [Uninstall](getting-started/account-and-billing/uninstall.md)
 
@@ -38,16 +37,16 @@
 
 ## Legaxy Editor
 
-  * [Layout Management](page-and-section-management/legaxy-editor/layout-management/README.md)
-    * [Create Layouts](page-and-section-management/legaxy-editor/layout-management/page-layouts.md)
-    * [Delete a Layout](page-and-section-management/legaxy-editor/layout-management/delete-a-layout.md)
-    * [Duplicate a Layout](page-and-section-management/legaxy-editor/layout-management/duplicate-a-layout.md)
-    * [Assign a Layout](page-and-section-management/legaxy-editor/layout-management/assign-product-layout.md)
-    * [Edit a Layout](page-and-section-management/legaxy-editor/layout-management/edit-a-layout.md)
-    * [Edit Section Code](page-and-section-management/legaxy-editor/layout-management/edit-section-code.md)
-    * [Export & Import](page-and-section-management/legaxy-editor/layout-management/export-and-import.md)
-    * [Design Blocks](page-and-section-management/legaxy-editor/layout-management/design-blocks.md)
-  * [Section Builder](page-and-section-management/legaxy-editor/section-builder.md)
+* [Layout Management](page-and-section-management/legaxy-editor/layout-management/README.md)
+  * [Create Layouts](page-and-section-management/legaxy-editor/layout-management/page-layouts.md)
+  * [Delete a Layout](page-and-section-management/legaxy-editor/layout-management/delete-a-layout.md)
+  * [Duplicate a Layout](page-and-section-management/legaxy-editor/layout-management/duplicate-a-layout.md)
+  * [Assign a Layout](page-and-section-management/legaxy-editor/layout-management/assign-product-layout.md)
+  * [Edit a Layout](page-and-section-management/legaxy-editor/layout-management/edit-a-layout.md)
+  * [Edit Section Code](page-and-section-management/legaxy-editor/layout-management/edit-section-code.md)
+  * [Export & Import](page-and-section-management/legaxy-editor/layout-management/export-and-import.md)
+  * [Design Blocks](page-and-section-management/legaxy-editor/layout-management/design-blocks.md)
+* [Section Builder](page-and-section-management/legaxy-editor/section-builder.md)
 
 ## FAQ and Common issues
 
