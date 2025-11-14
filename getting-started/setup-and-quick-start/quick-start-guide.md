@@ -1,17 +1,17 @@
 # Quick start guide
 
-## Bài viết này dành cho ai?
+## Who is this guide for?
 
-Bất kỳ ai đang mong muốn nhanh chóng tạo page đầu tiên với LayoutHub
+This guide is for anyone who wants to quickly create their first page with LayoutHub.
 
-Chúng tôi sẽ hướng dẫn step by step, tập trung vào các option cơ bản để bạn nhanh chóng có được 1 page hoàn chỉnh và make it live.&#x20;
+We’ll walk you through a step-by-step process with our newest Editor - LayoutHub Editor V2, focusing on the essential options so you can build a complete page and publish it in no time.
 
-## Tạo page đầu tiên với LayoutHub
+## Create Your First Page with LayoutHub
 
-Với hệ thống template của LayoutHub bạn chỉ cần **Pick a template template** > **Edit** > **Publish**. Không có các option phức tạp.&#x20;
+With LayoutHub’s template system, building a page is simple — **just pick a template** > **edit** > **publish**. No complicated options required.
 
 {% hint style="success" %}
-LayoutHub Template được cập nhật liên tục theo trend mới nhất, đáp ứng mọi nhu cầu E-com và tập trung vào các chức năng bán hàng giúp bạn gia tăng doanh số.&#x20;
+LayoutHub templates are continuously updated with the latest trends, designed to meet all e-commerce needs and focused on conversion-driven features to help you boost sales.
 {% endhint %}
 
 ## Step by step
@@ -24,13 +24,9 @@ LayoutHub Template được cập nhật liên tục theo trend mới nhất, đ
 {% endstep %}
 
 {% step %}
-#### **Chọn phiên bản Editor**
+#### **Choose Your Editor Version**
 
-Bạn có thể lựa chọn giữa Legacy Editor và Editor V2
-
-{% hint style="success" %}
-Editor V2 có hệ thống Templates được cập nhật liên tục theo trend mới nhất, đáp ứng mọi nhu cầu E-com và tập trung vào các chức năng bán hàng giúp bạn gia tăng doanh số.&#x20;
-{% endhint %}
+You can choose between the **Legacy Editor** and **Editor V2**.
 
 <figure><img src="../../.gitbook/assets/Screenshot_12-11-2025_14231_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 
