@@ -8,5 +8,5 @@ description: >-
 
 After completing customize your layout, from the **list of layouts** that have been customized and achieved at the bottom > **Select a Layout** > Click **Make default.** This page will be made as default to replace your existing home page.
 
-![](../../../.gitbook/assets/Screenshot_13.png)
+![](/.gitbook/assets/Screenshot_13.png)
 

@@ -8,11 +8,11 @@ Here is the details of [Shopify algoritm](https://help.shopify.com/en/themes/dev
 
 When you import a **Product Page** > You will see the **Related Product** section.
 
-![](../../../.gitbook/assets/RELATED.png)
+![](/.gitbook/assets/RELATED.png)
 
 **RELATED PRODUCT SETTINGS**
 
-![](../../../.gitbook/assets/related1.png)
+![](/.gitbook/assets/related1.png)
 
 | **Properties**          | Explanation                                                                                                                                                |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
