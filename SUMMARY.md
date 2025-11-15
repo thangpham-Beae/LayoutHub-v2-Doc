@@ -19,7 +19,13 @@
 
 ## Page and Section management
 
-* [Page Creation](page-and-section-management/page-creation.md)
+* [Page Creation](page-and-section-management/page-creation/README.md)
+  * [Regular page](page-and-section-management/page-creation/regular-page.md)
+  * [Home page](page-and-section-management/page-creation/home-page.md)
+  * [Product Page](page-and-section-management/page-creation/product-page.md)
+  * [Collection Page](page-and-section-management/page-creation/collection-page.md)
+  * [Blog page](page-and-section-management/page-creation/blog-page.md)
+  * [Article page](page-and-section-management/page-creation/article-page.md)
 * [LayoutHub Shopify Section](page-and-section-management/layouthub-shopify-section.md)
 * [Publish and Unpublish](page-and-section-management/publish-and-unpublish.md)
 * [Export/Import](page-and-section-management/export-import.md)
@@ -27,13 +33,14 @@
 * [Restore default template](page-and-section-management/restore-default-template.md)
 * [Duplicate a template](page-and-section-management/duplicate-a-template.md)
 * [Integrations](page-and-section-management/integrations.md)
-* [Advanced Feature](page-and-section-management/advanced-feature/README.md)
-  * [What is Advance Feature?](page-and-section-management/advanced-feature/what-is-advance-feature.md)
-  * [A/B testing](page-and-section-management/advanced-feature/a-b-testing.md)
-  * [Performance](page-and-section-management/advanced-feature/performance.md)
-  * [Live Translation](page-and-section-management/advanced-feature/live-translation.md)
-  * [Analytics](page-and-section-management/advanced-feature/analytics.md)
-  * [Multi market support](page-and-section-management/advanced-feature/multi-market-support.md)
+* [Advanced Feature](page-and-section-management/advanced-feature.md)
+* Build-in Advance Features
+  * [What is Advance Feature?](page-and-section-management/build-in-advance-features/what-is-advance-feature.md)
+  * [A/B testing](page-and-section-management/build-in-advance-features/a-b-testing.md)
+  * [Performance](page-and-section-management/build-in-advance-features/performance.md)
+  * [Live Translation](page-and-section-management/build-in-advance-features/live-translation.md)
+  * [Analytics](page-and-section-management/build-in-advance-features/analytics.md)
+  * [Multi market support](page-and-section-management/build-in-advance-features/multi-market-support.md)
 
 ## Legaxy Editor
 

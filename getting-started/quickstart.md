@@ -28,21 +28,67 @@ Built with the mission of **helping merchants launch better e-commerce experienc
 
 ## Why LayoutHub?
 
-**1. Easy to Use — No Learning Curve**\
-LayoutHub’s UI/UX is built based on the familiar Shopify Customizer, making it extremely intuitive even for beginners. Everything is designed with simplicity in mind, with no confusing or unnecessary options.
+**1. Easy to Use:** No learning curve, no complex options.&#x20;
 
-**2. A Complete Hub of eCommerce Layouts**\
-Find every layout you need in one place. LayoutHub offers a large and continuously growing library of templates — covering all common e-commerce use cases. All layouts are regularly updated, follow modern design trends, and focus on improving sales performance.
+**2. The central hub of every eCommerce layouts:** find all layout you need
 
-**3. Built-in Advanced Features**\
-A beautiful store alone isn’t enough. LayoutHub includes essential advanced features directly inside the editor, such as A/B Testing, Analytics, Live Translate, and Multi-Market Support. Everything you need to optimize performance is available in one unified platform.
+**3. Built-in Advanced Features:** Everything you need to optimize your store to rocket your sale. All in one place
 
 ## Key Feature&#x20;
 
 <details>
 
-<summary></summary>
+<summary>Easy Editor</summary>
 
 
 
 </details>
+
+<details>
+
+<summary><strong>The central hub of every eCommerce layouts</strong></summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Performance and SEO</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>A/B Testing</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Analytic</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Live translate</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Multi-market support</summary>
+
+
+
+</details>
+
