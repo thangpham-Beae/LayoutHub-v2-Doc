@@ -92,7 +92,8 @@
 ## FAQ and Common issues
 
 * [FAQ](faq-and-common-issues/faq.md)
-* [Common issues](faq-and-common-issues/common-issues.md)
+* [Common issues](faq-and-common-issues/common-issues/README.md)
+  * [256kb](faq-and-common-issues/common-issues/256kb.md)
 
 ***
 
