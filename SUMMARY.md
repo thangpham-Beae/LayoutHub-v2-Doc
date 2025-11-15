@@ -25,6 +25,7 @@
   * [Preferences](using-layouthub/layouthub-dashboard/preferences.md)
 * [LayoutHub Editor](using-layouthub/layouthub-editor.md)
 * [Page settings](using-layouthub/page-settings.md)
+* [Template Features](using-layouthub/template-features.md)
 
 ## Page and Section management
 
