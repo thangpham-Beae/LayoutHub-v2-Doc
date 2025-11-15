@@ -8,8 +8,6 @@
 * [Setup and Quick start](getting-started/setup-and-quick-start/README.md)
   * [How to install LayoutHub?](getting-started/setup-and-quick-start/how-to-install-layouthub.md)
   * [Quick start guide](getting-started/setup-and-quick-start/quick-start-guide.md)
-  * [LayoutHub Dashboard](getting-started/setup-and-quick-start/layouthub-dashboard.md)
-  * [LayoutHub Editor V2](getting-started/setup-and-quick-start/layouthub-editor-v2.md)
 * [Account and Billing](getting-started/account-and-billing/README.md)
   * [Free Trail](getting-started/account-and-billing/free-trail.md)
   * [Plan\&Pricing](getting-started/account-and-billing/plan-and-pricing.md)
@@ -17,8 +15,20 @@
   * [Refund](getting-started/account-and-billing/refund.md)
   * [Uninstall](getting-started/account-and-billing/uninstall.md)
 
+## Using LayoutHub
+
+* [LayoutHub Dashboard](using-layouthub/layouthub-dashboard/README.md)
+  * [Welcome Dashboard](using-layouthub/layouthub-dashboard/welcome-dashboard.md)
+  * [Page](using-layouthub/layouthub-dashboard/page.md)
+  * [Analytic](using-layouthub/layouthub-dashboard/analytic.md)
+  * [Function](using-layouthub/layouthub-dashboard/function.md)
+  * [Preferences](using-layouthub/layouthub-dashboard/preferences.md)
+* [LayoutHub Editor](using-layouthub/layouthub-editor.md)
+* [Page settings](using-layouthub/page-settings.md)
+
 ## Page and Section management
 
+* [The central hub](page-and-section-management/the-central-hub.md)
 * [Page Creation](page-and-section-management/page-creation/README.md)
   * [Regular page](page-and-section-management/page-creation/regular-page.md)
   * [Home page](page-and-section-management/page-creation/home-page.md)
@@ -33,7 +43,6 @@
 * [Restore default template](page-and-section-management/restore-default-template.md)
 * [Duplicate a template](page-and-section-management/duplicate-a-template.md)
 * [Integrations](page-and-section-management/integrations.md)
-* [Advanced Feature](page-and-section-management/advanced-feature.md)
 * Build-in Advance Features
   * [What is Advance Feature?](page-and-section-management/build-in-advance-features/what-is-advance-feature.md)
   * [A/B testing](page-and-section-management/build-in-advance-features/a-b-testing.md)

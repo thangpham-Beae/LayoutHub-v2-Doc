@@ -32,13 +32,13 @@ After finishing the installation, you will be sent to the LayoutHub Builder Dash
 
 <figure><img src="../../.gitbook/assets/Screenshot_12-11-2025_113116_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 
-For an overview of the **LayoutHub Dashboard**, check out [this article](layouthub-dashboard.md).
+For an overview of the **LayoutHub Dashboard**, check out [this article](broken-reference).
 
 Otherwise, you can access the dashboard at any time from the **Apps section** of your **Shopify admin**.
 {% endstep %}
 
 {% step %}
-#### Build your first page
+**Build your first page**
 
 [Quick start guide](quick-start-guide.md)
 {% endstep %}

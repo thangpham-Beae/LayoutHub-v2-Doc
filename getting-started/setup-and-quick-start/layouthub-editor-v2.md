@@ -1,2 +1,0 @@
-# LayoutHub Editor V2
-
