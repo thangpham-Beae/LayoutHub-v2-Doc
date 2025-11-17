@@ -43,7 +43,7 @@
 * [Restore default template](page-and-section-management/restore-default-template.md)
 * [Duplicate a template](page-and-section-management/duplicate-a-template.md)
 * [Integrations](page-and-section-management/integrations.md)
-* Build-in Advance Features
+* [Build-in Advance Features](page-and-section-management/build-in-advance-features/README.md)
   * [What is Advance Feature?](page-and-section-management/build-in-advance-features/what-is-advance-feature.md)
   * [A/B testing](page-and-section-management/build-in-advance-features/a-b-testing.md)
   * [Performance](page-and-section-management/build-in-advance-features/performance.md)
@@ -90,7 +90,8 @@
 
 ## FAQ and Common issues
 
-* [FAQ](faq-and-common-issues/faq.md)
+* [FAQ](faq-and-common-issues/faq/README.md)
+  * [How to get store password?](faq-and-common-issues/faq/how-to-get-store-password.md)
 * [Common issues](faq-and-common-issues/common-issues/README.md)
   * [256kb](faq-and-common-issues/common-issues/256kb.md)
 

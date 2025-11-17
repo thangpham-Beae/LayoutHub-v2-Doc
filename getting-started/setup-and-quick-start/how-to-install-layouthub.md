@@ -10,7 +10,7 @@ description: >-
 To explore more about our pricing plan and select your best fit. Check out [this article](../account-and-billing/plan-and-pricing.md)
 {% endhint %}
 
-## How to install LayoutHub to your Shopify store? <a href="#how-to-install-gempages-in-your-shopify-store" id="how-to-install-gempages-in-your-shopify-store"></a>
+### How to install LayoutHub to your Shopify store? <a href="#how-to-install-gempages-in-your-shopify-store" id="how-to-install-gempages-in-your-shopify-store"></a>
 
 {% stepper %}
 {% step %}
