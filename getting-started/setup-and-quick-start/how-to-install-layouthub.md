@@ -14,7 +14,7 @@ To explore more about our pricing plan and select your best fit. Check out [this
 
 {% stepper %}
 {% step %}
-#### Visit [LayoutHub Main Website](https://layouthub.com/).&#x20;
+#### Visit [LayoutHub Main Website](https://layouthub.com/)
 
 On the homepage, click on the **Start with free plan now** button. This will redirect you to the Shopify app store.
 
@@ -24,9 +24,9 @@ On the homepage, click on the **Start with free plan now** button. This will red
 {% step %}
 #### Install LayoutHub app
 
-After  step 1 you will be redirected to the LayoutHub Shopify App Store.&#x20;
+After step 1 you will be redirected to the LayoutHub Shopify App Store.&#x20;
 
-Click **Install** to install LayoutHub app
+Click **Install** to install LayoutHub app.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-12 at 11.20.10.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -36,7 +36,7 @@ Click **Install** to install LayoutHub app
 
 After clicking Install from Shopify App store. The system will ask you to confirm the app installation.&#x20;
 
-Click **Install** to confirm the installation of the LayoutHub app for your store
+Click **Install** to confirm the installation of the LayoutHub app for your store.
 
 <figure><img src="../../.gitbook/assets/Screenshot_12-11-2025_113116_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -48,7 +48,7 @@ Otherwise, you can access the dashboard at any time from the **Apps section** of
 {% endstep %}
 
 {% step %}
-**Build your first page**
+#### **Build your first page**
 
 [Quick start guide](quick-start-guide.md)
 {% endstep %}

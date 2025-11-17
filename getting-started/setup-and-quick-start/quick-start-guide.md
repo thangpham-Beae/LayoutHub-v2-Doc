@@ -8,7 +8,7 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=rPP6OnFul4w" %}
 
-### Start using LayoutHub
+## Start using LayoutHub
 
 {% stepper %}
 {% step %}
@@ -33,22 +33,23 @@ If you don't know how to get your store password, check out [this article.](../.
 {% endstep %}
 
 {% step %}
-#### **Enable LayoutHub Theme Helper**
+#### **Enable** Theme app extensions
 
-To ensure all features work smoothly and the best experience, you need to enable the LayoutHub Theme Helper.
+To ensure all features work smoothly and the best experience, you need to enable the **Theme app extensions.**
 
 {% hint style="success" %}
 Steps:
 
-1. Access your **Shopify Theme Customizer** from your **Shopify Admin.**
-2. Click **App Embed** in the left column of the theme customizer
-3. Enable **LayoutHub Theme helper**
-4. Click **Save** to save your change
+1. Access LayoutHub app and click **Preference** in the left column.
+2. Click **Theme app extensions.**
+3. Click **Enable Now** to enable the **Theme app extensions.**
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-11-17 at 14.50.26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-17 at 16.45.53.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-11-17 at 14.52.16.png" alt=""><figcaption></figcaption></figure>
+After successfully enabling the theme app extension, **the system will notify "Theme helper Enable"**.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-17 at 16.54.29.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
