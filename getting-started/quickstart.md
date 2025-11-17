@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# What is LayoutHub?
+## What is LayoutHub?
 
 {% embed url="https://www.youtube.com/watch?v=-1I4OV53yRE" %}
 
