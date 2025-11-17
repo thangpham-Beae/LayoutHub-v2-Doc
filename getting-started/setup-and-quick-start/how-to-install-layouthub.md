@@ -24,7 +24,7 @@ On the homepage, click on the **Start with free plan now** button. This will red
 
 After  step 1 you will be redirected to the LayoutHub Shopify App Store.&#x20;
 
-Click **Install** to intall LayoutHub app
+Click **Install** to install LayoutHub app
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-12 at 11.20.10.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -32,7 +32,9 @@ Click **Install** to intall LayoutHub app
 {% step %}
 #### Confirm installation
 
-After clicking Install from Shopify App store. The system will ask you to confirm the app installation. df
+After clicking Install from Shopify App store. The system will ask you to confirm the app installation.&#x20;
+
+Click **Install** to confirm the installation of the LayoutHub app for your store
 
 <figure><img src="../../.gitbook/assets/Screenshot_12-11-2025_113116_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 
