@@ -29,7 +29,6 @@
 
 ## Page and Section management
 
-* [The central hub](page-and-section-management/the-central-hub.md)
 * [Page Creation](page-and-section-management/page-creation/README.md)
   * [Regular page](page-and-section-management/page-creation/regular-page.md)
   * [Home page](page-and-section-management/page-creation/home-page.md)

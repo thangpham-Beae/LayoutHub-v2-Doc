@@ -1,7 +1,7 @@
 ---
 description: >-
   In this article, we’ll guide you through the process of installing LayoutHub
-  on your Shopify site step by step.
+  on your Shopify store step by step.
 ---
 
 # How to install LayoutHub?
@@ -32,7 +32,7 @@ After finishing the installation, you will be sent to the LayoutHub Builder Dash
 
 <figure><img src="../../.gitbook/assets/Screenshot_12-11-2025_113116_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 
-For an overview of the **LayoutHub Dashboard**, check out [this article](broken-reference).
+For an overview of the **LayoutHub Dashboard**, check out [this article](../../using-layouthub/layouthub-dashboard/).
 
 Otherwise, you can access the dashboard at any time from the **Apps section** of your **Shopify admin**.
 {% endstep %}
