@@ -42,9 +42,13 @@ Click **Install** to confirm the installation of the LayoutHub app for your stor
 
 After finishing the installation, you will be sent to the LayoutHub Builder Dashboard. From here, you can create a new page, manage your page and adjust app settings.
 
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-17 at 17.08.40.png" alt=""><figcaption></figcaption></figure>
+
 For an overview of the **LayoutHub Dashboard**, check out [this article](../../using-layouthub/layouthub-dashboard/).
 
 Otherwise, you can access the dashboard at any time from the **Apps section** of your **Shopify admin**.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-17 at 17.10.33.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
