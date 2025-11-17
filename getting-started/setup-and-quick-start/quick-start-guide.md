@@ -33,7 +33,7 @@ If you don't know how to get your store password, check out [this article.](../.
 {% endstep %}
 
 {% step %}
-**Enable LayoutHub Theme Helper**
+#### **Enable LayoutHub Theme Helper**
 
 To ensure all features work smoothly and the best experience, you need to enable the LayoutHub Theme Helper.
 
@@ -49,6 +49,12 @@ Steps:
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-17 at 14.50.26.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-17 at 14.52.16.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+#### Start building your first page&#x20;
+
+[Create your first page](../../page-and-section-management/page-creation/)
 {% endstep %}
 {% endstepper %}
 
