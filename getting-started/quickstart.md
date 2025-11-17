@@ -16,7 +16,9 @@ layout:
     visible: true
 ---
 
-## What is LayoutHub?
+# What is LayoutHub?
+
+### What is LayoutHub?
 
 {% embed url="https://www.youtube.com/watch?v=-1I4OV53yRE" %}
 
@@ -26,15 +28,21 @@ With LayoutHub, you can create a beautiful, high-converting store by simply sele
 
 Built with the mission of **helping merchants launch better e-commerce experiences**, LayoutHub makes it effortless to set up your store and boost your sales.
 
-## Why LayoutHub?
+### Why LayoutHub?
 
-**1. Easy to Use:** No learning curve, no complex options.&#x20;
+**1. Easy to Use:** No learning curve, no complex options.
 
-**2. The central hub of every eCommerce layouts:** find all layout you need,&#x20;
+**2. The central hub of every eCommerce layouts:** find all layout you need, optimize for speed and sale driven.&#x20;
 
-**3. Built-in Advanced Features:** Everything you need to optimize your store to rocket your sale. All in one place
+**3. Built-in Advanced Features:** Everything you need to optimize your store to rocket your sale. All in one place.
 
-## Key Feature&#x20;
+**4.** **Five stars support team:** Trusted by over 100,000 merchants, get help from our experienced support team, available 24/7.
+
+
+
+
+
+### Key Feature
 
 <details>
 
@@ -60,7 +68,7 @@ LayoutHub provides a newly redesigned template library focused on performance an
 
 <summary>Build-in Advance Features</summary>
 
-LayoutHub integrates advanced features directly into the Editor, including A/B testing, Analytics, Performance and SEO optimization, Live Translate, and Multi-Market support.  Everything you need to optimize and scale your business. All in one place.
+LayoutHub integrates advanced features directly into the Editor, including A/B testing, Analytics, Performance and SEO optimization, Live Translate, and Multi-Market support. Everything you need to optimize and scale your business. All in one place.
 
 [Learn more](../page-and-section-management/build-in-advance-features/what-is-advance-feature.md)
 
@@ -72,7 +80,6 @@ LayoutHub integrates advanced features directly into the Editor, including A/B t
 
 Every LayoutHub template is crafted with a mobile-first mindset, because over 85% of visitors shop from their phones.
 
-[Learn more](broken-reference)
+[Learn more](broken-reference/)
 
 </details>
-

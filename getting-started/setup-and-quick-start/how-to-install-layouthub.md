@@ -10,6 +10,8 @@ description: >-
 To explore more about our pricing plan and select your best fit. Check out [this article](../account-and-billing/plan-and-pricing.md)
 {% endhint %}
 
+## Install LayoutHub app to your store
+
 {% stepper %}
 {% step %}
 #### Visit [LayoutHub Main Website](https://layouthub.com/).&#x20;
