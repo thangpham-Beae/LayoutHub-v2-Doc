@@ -10,21 +10,28 @@ In this article, we will walk you through everything you need to launch your fir
 
 {% embed url="https://www.youtube.com/watch?v=rPP6OnFul4w" %}
 
-### Setting up&#x20;
+### Start using LayoutHub
 
 {% stepper %}
 {% step %}
-**Enter your store password**&#x20;
+#### **Enter your store password**&#x20;
 
-Access LayoutHub Dashboard > Preference > Store Settings > Fill your store password.
+{% hint style="success" %}
+Steps:
 
-If you don't know how to get your store password, check out this article.
+1. Access LayoutHub app and click **Preference** in the left column.
+2. Click Store settings in **Preference page.**
+3. Fill your store password.
+4. After complete fill your store password, click **Save** to save your change.
+{% endhint %}
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-11-17 at 11.45.35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-17 at 14.27.25.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 If your store is protected by a password, please enter it to continue using LayoutHub – Easy Page Builder. If your storefront password is already disabled, you can skip this step.
 {% endhint %}
+
+If you don't know how to get your store password, check out [this article.](../../faq-and-common-issues/faq/how-to-get-store-password.md)
 {% endstep %}
 
 {% step %}

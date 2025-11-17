@@ -10,8 +10,6 @@ description: >-
 To explore more about our pricing plan and select your best fit. Check out [this article](../account-and-billing/plan-and-pricing.md)
 {% endhint %}
 
-### How to install LayoutHub to your Shopify store? <a href="#how-to-install-gempages-in-your-shopify-store" id="how-to-install-gempages-in-your-shopify-store"></a>
-
 {% stepper %}
 {% step %}
 Visit [LayoutHub Main Website](https://layouthub.com/). On the homepage, click on the **Start with free plan now** button. This will redirect you to the Shopify app store.
@@ -26,11 +24,11 @@ In the Shopify App Store, click **Install**. You will be directed to your Shopif
 {% endstep %}
 
 {% step %}
-Click “**Install**” to confirm the installation.
-
-After finishing the installation, you will be sent to the LayoutHub Builder Dashboard. From here, you can create a new page, manage your page and adjust app settings.
+In your Shopify Admin, click “**Install**” to confirm the installation.
 
 <figure><img src="../../.gitbook/assets/Screenshot_12-11-2025_113116_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
+
+After finishing the installation, you will be sent to the LayoutHub Builder Dashboard. From here, you can create a new page, manage your page and adjust app settings.
 
 For an overview of the **LayoutHub Dashboard**, check out [this article](../../using-layouthub/layouthub-dashboard/).
 
@@ -49,3 +47,4 @@ Have a question?
 
 Contact us via in-app live chat or email. We'll reply in few minutes
 {% endhint %}
+
