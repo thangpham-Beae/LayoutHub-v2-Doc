@@ -39,7 +39,7 @@ We need the Shopify bill for the requested billing cycle of your store. Based on
 {% endstep %}
 
 {% step %}
-### Export your Shopify Bill
+#### Export your Shopify Bill
 
 {% hint style="success" %}
 Steps:&#x20;
