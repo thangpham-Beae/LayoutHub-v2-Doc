@@ -4,7 +4,7 @@
 
 ## Getting started
 
-* [What is LayoutHub?](getting-started/quickstart.md)
+* [What is LayoutHub?](getting-started/what-is-layouthub.md)
 * [Setup and Quick start](getting-started/setup-and-quick-start/README.md)
   * [How to install LayoutHub?](getting-started/setup-and-quick-start/how-to-install-layouthub.md)
   * [Quick start guide](getting-started/setup-and-quick-start/quick-start-guide.md)
