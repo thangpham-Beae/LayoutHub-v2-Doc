@@ -28,7 +28,7 @@ Steps:
 
 {% hint style="info" %}
 On the **Plan Information** page you will see your **current plan.**\
-In this case is PayG 10-slot = Pay as you go 10-slots
+In this case is PayG 10-slot = Pay as you go 10-slots.
 {% endhint %}
 {% endstep %}
 
@@ -49,7 +49,7 @@ After pick the plan you want, click **Upgrade** to upgrade your plan or **Downgr
 
 After step 2, you will be redirect to **Plan confirmation page.**
 
-You can choose to add the Add-on package or not then select **Confirm detail**
+You can choose to add the Add-on package or not then select **Confirm detail.**
 
 <figure><img src="../../.gitbook/assets/Screenshot_14-11-2025_111448_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -63,7 +63,7 @@ After **Confirm detail** you can **enter the discount code** and select **Start 
 
 After clicking start plan, Shopify system will take you to **Approve subscription page**.
 
-Select **Approve** to confirm Plan activation and payment
+Select **Approve** to confirm Plan activation and payment.
 
 <figure><img src="../../.gitbook/assets/Screenshot_14-11-2025_143135_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -71,9 +71,33 @@ Select **Approve** to confirm Plan activation and payment
 {% step %}
 #### Change plan successfully
 
-After your plan activation and payment are confirmed, you will be redirected to the LayoutHub Switch Plan page, where you’ll see the message: “Subscription activated successfully! 🎉”&#x20;
+After your plan activation and payment are confirmed, you will be redirected to the LayoutHub Switch Plan page, where you’ll see the message: “Subscription activated successfully! 🎉”.
 
 <figure><img src="../../.gitbook/assets/Screenshot_14-11-2025_143935_admin.shopify.com.jpeg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+### Here's how to cancel your plan
+
+{% hint style="success" %}
+Steps:
+
+1. Access LayoutHub app and click **Preference** in the left column.
+2. Click Danger zone.
+3. Click Cancel plan.&#x20;
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-18 at 13.21.20.png" alt=""><figcaption></figcaption></figure>
+
+### What happens if I cancel my pan?&#x20;
+
+You will be required to **unpublish pages and sections** before cancelling the plan.&#x20;
+
+Click **Manages page** to unpublish pages and sections.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-17 at 22.49.58.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Don't know how to unpublish pages and sections, check [this article](../../page-and-section-management/publish-and-unpublish.md).
+{% endhint %}
 

@@ -91,7 +91,7 @@
 ## FAQ and Common issues
 
 * [FAQ](faq-and-common-issues/faq/README.md)
-  * [How to get store password?](faq-and-common-issues/faq/how-to-get-store-password.md)
+  * [Where can I find my store password?](faq-and-common-issues/faq/where-can-i-find-my-store-password.md)
 * [Common issues](faq-and-common-issues/common-issues/README.md)
   * [256kb](faq-and-common-issues/common-issues/256kb.md)
 

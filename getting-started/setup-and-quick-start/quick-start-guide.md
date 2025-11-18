@@ -29,7 +29,7 @@ Steps:
 If your store is protected by a password, please enter it to continue using LayoutHub – Easy Page Builder. If your storefront password is already disabled, you can skip this step.
 {% endhint %}
 
-If you don't know how to get your store password, check out [this article.](../../faq-and-common-issues/faq/how-to-get-store-password.md)
+If you don't know how to get your store password, check out [this article.](../../faq-and-common-issues/faq/where-can-i-find-my-store-password.md)
 {% endstep %}
 
 {% step %}
