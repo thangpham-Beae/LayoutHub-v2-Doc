@@ -32,15 +32,11 @@ Built with the mission of **helping merchants launch better e-commerce experienc
 
 **1. Easy to Use:** No learning curve, no complex options.
 
-**2. The central hub of every eCommerce layouts:** find all layout you need, optimize for speed and sale driven.&#x20;
+**2. The central hub of every eCommerce layouts:** find all layout you need, optimize for speed and sale driven.
 
 **3. Built-in Advanced Features:** Everything you need to optimize your store to rocket your sale. All in one place.
 
 **4.** **Five stars support team:** Trusted by over 100,000 merchants, get help from our experienced support team, available 24/7.
-
-
-
-
 
 ### Key Feature
 
@@ -70,7 +66,7 @@ LayoutHub provides a newly redesigned template library focused on performance an
 
 LayoutHub integrates advanced features directly into the Editor, including A/B testing, Analytics, Performance and SEO optimization, Live Translate, and Multi-Market support. Everything you need to optimize and scale your business. All in one place.
 
-[Learn more](../page-and-section-management/build-in-advance-features/what-is-advance-feature.md)
+[Learn more](../page-and-section-management/build-in-advance-features/overview.md)
 
 </details>
 

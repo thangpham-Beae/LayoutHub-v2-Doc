@@ -43,50 +43,50 @@
 * [Restore default template](page-and-section-management/restore-default-template.md)
 * [Duplicate a template](page-and-section-management/duplicate-a-template.md)
 * [Integrations](page-and-section-management/integrations.md)
-* [Build-in Advance Features](page-and-section-management/build-in-advance-features/README.md)
-  * [What is Advance Feature?](page-and-section-management/build-in-advance-features/what-is-advance-feature.md)
+* Build-in advance features
+  * [Overview](page-and-section-management/build-in-advance-features/overview.md)
   * [A/B testing](page-and-section-management/build-in-advance-features/a-b-testing.md)
   * [Performance](page-and-section-management/build-in-advance-features/performance.md)
   * [Live Translation](page-and-section-management/build-in-advance-features/live-translation.md)
   * [Analytics](page-and-section-management/build-in-advance-features/analytics.md)
   * [Multi market support](page-and-section-management/build-in-advance-features/multi-market-support.md)
 
-## Legaxy Editor
+## Legacy Editor
 
-* [Layout Management](page-and-section-management/legaxy-editor/layout-management/README.md)
-  * [Create Layouts](legaxy-editor/layout-management/page-layouts.md)
-  * [Delete a Layout](page-and-section-management/legaxy-editor/layout-management/delete-a-layout.md)
-  * [Duplicate a Layout](page-and-section-management/legaxy-editor/layout-management/duplicate-a-layout.md)
-  * [Assign a Layout](legaxy-editor/layout-management/assign-product-layout.md)
-  * [Edit a Layout](page-and-section-management/legaxy-editor/layout-management/edit-a-layout.md)
-  * [Edit Section Code](page-and-section-management/legaxy-editor/layout-management/edit-section-code.md)
-  * [Export & Import](page-and-section-management/legaxy-editor/layout-management/export-and-import.md)
-  * [Design Blocks](page-and-section-management/legaxy-editor/layout-management/design-blocks.md)
-* [Section Builder](page-and-section-management/legaxy-editor/section-builder.md)
-* [LayoutHub pages/templates](legaxy-editor/featured-elements/README.md)
-  * [Home Page](legaxy-editor/featured-elements/homepage/README.md)
-    * [Create additional Home Page](legaxy-editor/featured-elements/homepage/create-additional-home-page.md)
-    * [Make an existing page as home page](legaxy-editor/featured-elements/homepage/make-an-existing-page-as-home-page.md)
-    * [Restore to default Home Page](legaxy-editor/featured-elements/homepage/restore-to-default-home-page.md)
-    * [Customize Shopify Home Page](legaxy-editor/featured-elements/homepage/customize-shopify-home-page.md)
-  * [Sub-page](legaxy-editor/featured-elements/sub-page/README.md)
-    * [Contact Form](legaxy-editor/featured-elements/sub-page/third-party-email-subscribe.md)
-  * [Product Template](legaxy-editor/featured-elements/product-page/README.md)
-    * [Product Detail](legaxy-editor/featured-elements/product-page/general.md)
-    * [Related Product](legaxy-editor/featured-elements/product-page/related-product.md)
-  * [Collection Template](legaxy-editor/featured-elements/collection-page.md)
-  * [Blog Templates](legaxy-editor/featured-elements/blog-templates.md)
-  * [Article Templates](legaxy-editor/featured-elements/artical-templates.md)
-  * [Insert section](legaxy-editor/featured-elements/insert-section.md)
-* [Settings](page-and-section-management/legaxy-editor/settings/README.md)
-  * [General](page-and-section-management/legaxy-editor/settings/general.md)
-  * [Theme Settings](page-and-section-management/legaxy-editor/settings/theme-settings.md)
-  * [Quickview Settings](page-and-section-management/legaxy-editor/settings/quickview-settings.md)
-  * [Swatch color settings](page-and-section-management/legaxy-editor/settings/swatch-color-settings.md)
-  * [Third party Apps](legaxy-editor/settings/third-party-apps/README.md)
-    * [Product Review](legaxy-editor/settings/third-party-apps/product-review.md)
-    * [Product Wishlist](legaxy-editor/settings/third-party-apps/product-wishlist.md)
-* [Trash](page-and-section-management/legaxy-editor/trash.md)
+* [Layout Management](legacy-editor/layout-management/README.md)
+  * [Create Layouts](legacy-editor/layout-management/page-layouts.md)
+  * [Delete a Layout](legacy-editor/layout-management/delete-a-layout.md)
+  * [Duplicate a Layout](legacy-editor/layout-management/duplicate-a-layout.md)
+  * [Assign a Layout](legacy-editor/layout-management/assign-product-layout.md)
+  * [Edit a Layout](legacy-editor/layout-management/edit-a-layout.md)
+  * [Edit Section Code](legacy-editor/layout-management/edit-section-code.md)
+  * [Export & Import](legacy-editor/layout-management/export-and-import.md)
+  * [Design Blocks](legacy-editor/layout-management/design-blocks.md)
+* [Section Builder](legacy-editor/section-builder.md)
+* [LayoutHub pages/templates](legacy-editor/featured-elements/README.md)
+  * [Home Page](legacy-editor/featured-elements/homepage/README.md)
+    * [Create additional Home Page](legacy-editor/featured-elements/homepage/create-additional-home-page.md)
+    * [Make an existing page as home page](legacy-editor/featured-elements/homepage/make-an-existing-page-as-home-page.md)
+    * [Restore to default Home Page](legacy-editor/featured-elements/homepage/restore-to-default-home-page.md)
+    * [Customize Shopify Home Page](legacy-editor/featured-elements/homepage/customize-shopify-home-page.md)
+  * [Sub-page](legacy-editor/featured-elements/sub-page/README.md)
+    * [Contact Form](legacy-editor/featured-elements/sub-page/third-party-email-subscribe.md)
+  * [Product Template](legacy-editor/featured-elements/product-page/README.md)
+    * [Product Detail](legacy-editor/featured-elements/product-page/general.md)
+    * [Related Product](legacy-editor/featured-elements/product-page/related-product.md)
+  * [Collection Template](legacy-editor/featured-elements/collection-page.md)
+  * [Blog Templates](legacy-editor/featured-elements/blog-templates.md)
+  * [Article Templates](legacy-editor/featured-elements/artical-templates.md)
+  * [Insert section](legacy-editor/featured-elements/insert-section.md)
+* [Settings](legacy-editor/settings/README.md)
+  * [General](legacy-editor/settings/general.md)
+  * [Theme Settings](legacy-editor/settings/theme-settings.md)
+  * [Quickview Settings](legacy-editor/settings/quickview-settings.md)
+  * [Swatch color settings](legacy-editor/settings/swatch-color-settings.md)
+  * [Third party Apps](legacy-editor/settings/third-party-apps/README.md)
+    * [Product Review](legacy-editor/settings/third-party-apps/product-review.md)
+    * [Product Wishlist](legacy-editor/settings/third-party-apps/product-wishlist.md)
+* [Trash](legacy-editor/trash.md)
 
 ## FAQ and Common issues
 
@@ -97,13 +97,9 @@
 * [Common issues](faq-and-common-issues/common-issues/README.md)
   * [256kb](faq-and-common-issues/common-issues/256kb.md)
 
-***
+## Shopify apps integration
 
-* [Build for Success series](build-for-success-series.md)
-
-## Shopify Apps Integrations
-
-* [Product review](shopify-apps-integrations/product-review.md)
+* [Product review](shopify-apps-integration/product-review.md)
 
 ***
 
