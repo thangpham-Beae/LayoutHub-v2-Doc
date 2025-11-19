@@ -13,7 +13,7 @@
   * [Plan\&Pricing](getting-started/account-and-billing/plan-and-pricing.md)
   * [Change your plan](getting-started/account-and-billing/change-your-plan.md)
   * [Refund](getting-started/account-and-billing/refund.md)
-  * [Uninstall](getting-started/account-and-billing/uninstall.md)
+  * [Uninstall LayoutHub app](getting-started/account-and-billing/uninstall.md)
 
 ## Using LayoutHub
 
@@ -21,7 +21,9 @@
   * [Welcome Dashboard](using-layouthub/layouthub-dashboard/welcome-dashboard.md)
   * [Page](using-layouthub/layouthub-dashboard/page.md)
   * [Analytic](using-layouthub/layouthub-dashboard/analytic.md)
-  * [Function](using-layouthub/layouthub-dashboard/function.md)
+  * [Functions](using-layouthub/layouthub-dashboard/function/README.md)
+    * [Global Theme Style](using-layouthub/layouthub-dashboard/function/global-theme-style.md)
+    * [Swatch colors v2.0](using-layouthub/layouthub-dashboard/function/swatch-colors-v2.0.md)
   * [Preferences](using-layouthub/layouthub-dashboard/preferences.md)
 * [LayoutHub Editor](using-layouthub/layouthub-editor.md)
 * [Page settings](using-layouthub/page-settings.md)
@@ -91,6 +93,7 @@
 ## FAQ and Common issues
 
 * [FAQ](faq-and-common-issues/faq/README.md)
+  * [How do I remove all LayoutHub code from my theme?](faq-and-common-issues/faq/how-do-i-remove-all-layouthub-code-from-my-theme.md)
   * [What heppened if I downgrade my plan?](faq-and-common-issues/faq/what-heppened-if-i-downgrade-my-plan.md)
   * [How to get store password?](faq-and-common-issues/faq/how-to-get-store-password.md)
   * [How do I get support?](faq-and-common-issues/faq/how-do-i-get-support.md)

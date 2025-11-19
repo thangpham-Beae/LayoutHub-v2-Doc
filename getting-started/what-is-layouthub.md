@@ -76,6 +76,4 @@ LayoutHub integrates advanced features directly into the Editor, including A/B t
 
 Every LayoutHub template is crafted with a mobile-first mindset, because over 85% of visitors shop from their phones.
 
-[Learn more](broken-reference/)
-
 </details>
