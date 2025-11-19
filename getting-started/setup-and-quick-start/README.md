@@ -1,7 +1,7 @@
 # Setup and Quick start
 
-Provides you with detailed steps to install LayoutHub from the Shopify App store and set up LayoutHub on your online store.\
-Helps you quickly complete the initial setup of building your first page with LayoutHub.
+New to LayoutHub?\
+Setup and quick start will guide you through the steps to install LayoutHub on your Shopify store and quickly build your first page.
 
 {% content-ref url="how-to-install-layouthub.md" %}
 [how-to-install-layouthub.md](how-to-install-layouthub.md)
