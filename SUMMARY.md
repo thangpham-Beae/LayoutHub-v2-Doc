@@ -12,7 +12,7 @@
   * [Free Trail](getting-started/account-and-billing/free-trail.md)
   * [Plan and Pricing](getting-started/account-and-billing/plan-and-pricing.md)
   * [Change your plan](getting-started/account-and-billing/change-your-plan.md)
-  * [Refund](getting-started/account-and-billing/refund.md)
+  * [Refund policy](getting-started/account-and-billing/refund.md)
   * [Uninstall LayoutHub app](getting-started/account-and-billing/uninstall.md)
 
 ## Using LayoutHub
