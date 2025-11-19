@@ -18,7 +18,7 @@ What happens if I downgrade my plan? Please check [this article](../../faq-and-c
 
 {% stepper %}
 {% step %}
-**Access Switch plan page**
+#### **Access Switch plan page**
 
 {% hint style="success" %}
 Steps:
@@ -37,7 +37,7 @@ In this case is PayG 10-slot = Pay as you go 10-slots.
 {% endstep %}
 
 {% step %}
-**Choose the plan you want to upgrade or downgrade**
+#### **Choose the plan you want to upgrade or downgrade**
 
 After step 1, you will redirect to Switch plan page. Pick the plan you want to upgrade or downgrade to.
 
@@ -47,7 +47,7 @@ After pick the plan you want, click **Upgrade** to upgrade your plan or **Downgr
 {% endstep %}
 
 {% step %}
-**Plan confirmation**
+#### **Plan confirmation**
 
 After step 2, you will be redirect to **Plan confirmation page.**
 
@@ -61,7 +61,7 @@ After **Confirm detail** you can **enter the discount code** and select **Start 
 {% endstep %}
 
 {% step %}
-**Approve subscription**
+#### **Approve subscription**
 
 After clicking start plan, Shopify system will take you to **Approve subscription page**.
 
@@ -71,7 +71,7 @@ Select **Approve** to confirm Plan activation and payment.
 {% endstep %}
 
 {% step %}
-**Change plan successfully**
+#### **Change plan successfully**
 
 After your plan activation and payment are confirmed, you will be redirected to the LayoutHub Switch Plan page, where you’ll see the message: “Subscription activated successfully! 🎉”.
 
@@ -102,3 +102,19 @@ Click **Manages page** to unpublish pages and sections.
 {% hint style="info" %}
 Don't know how to unpublish pages and sections, check [this article](../../page-and-section-management/publish-and-unpublish.md).
 {% endhint %}
+
+## Frequently Asked Questions
+
+### 1. What is a publish slot?
+
+Publish slots are the number of templates and sections that you can create with LayoutHub and publish to your theme or live page.
+
+### 2. I have many products, collections. Do they consume my publish slots?
+
+Don't worry, a collection or product template can be assigned to all or many different products or collections.&#x20;
+
+For example: if your store has 10 collections, you just need to create 1 collection template and assign it to those 10 collections. All will be counted as 1 publish slot.
+
+#### **3. What happens if I downgrade to a free plan?**
+
+Free plan has only 1 publish slot so the system will ask you to unpublish pages to draft page and leave only 1 published page.
