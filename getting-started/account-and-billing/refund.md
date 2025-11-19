@@ -4,7 +4,7 @@ description: >-
   one.
 ---
 
-# Refund
+# Refund policy
 
 ## When can I get a refund?
 
@@ -20,29 +20,29 @@ Shopify manages the app’s payment, and they will charge users when users activ
 
 Requesting a refund from LayoutHub also means that you will cease using LayoutHub paid plans.
 
-* If you decide to downgrade from a higher plan to a lower plan (e.g. PayG-30 to PayG-10 or Enterprise to PayG-10) or downgrade to the Free plan, please check [this article](refund.md#what-happens-to-my-pages-if-i-request-a-refund).&#x20;
-* If you decide to cancel your plan, please check [this article](change-your-plan.md#what-happens-if-i-cancel-my-pan).&#x20;
+* If you decide to downgrade from a higher plan to a lower plan (e.g. PayG-30 to PayG-10 or Enterprise to PayG-10) or downgrade to the Free plan, please check [this article](refund.md#what-happens-to-my-pages-if-i-request-a-refund).
+* If you decide to cancel your plan, please check [this article](change-your-plan.md#what-happens-if-i-cancel-my-pan).
 
 ## What do I need to prepare to request a refund?
 
-You will need to **provide a payment confirmation invoice from Shopify**. Please export **the bill containing the LayoutHub payment** and provide it to LayoutHub customer support team for assistance and processing.&#x20;
+You will need to **provide a payment confirmation invoice from Shopify**. Please export **the bill containing the LayoutHub payment** and provide it to LayoutHub customer support team for assistance and processing.
 
-We need the Shopify bill for the requested billing cycle of your store. Based on that, we will have more clues about the case and detect the issue better.&#x20;
+We need the Shopify bill for the requested billing cycle of your store. Based on that, we will have more clues about the case and detect the issue better.
 
 ### Export your Shopify Bill
 
 {% stepper %}
 {% step %}
-#### Access **Settings** from your Shopify Admin.
+**Access Settings from your Shopify Admin.**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-18 at 18.13.55.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### Export your Shopify Bill
+**Export your Shopify Bill**
 
 {% hint style="success" %}
-Steps:&#x20;
+Steps:
 
 1. Click **Billing**.
 2. Choosing the **Billing for target period.**
@@ -63,20 +63,20 @@ The charge had to be completed. The Shopify invoice needs to have **“Paid”**
 
 ## How to request a refund?
 
-* If you meet all the requirements above, please kindly contact Beae support team via live chat or support email: [**support@beae.com**](mailto:support@beae.com) and provide all the information for support team. We will process your refund request asap.
+* If you meet all the requirements above, please kindly contact Beae support team via live chat or support email: [**support@layouthub.com**](mailto:support@layouthub.com) and provide all the information for support team. We will process your refund request asap.
 * If you haven’t been charged yet (doesn’t have Shopify invoice, the invoice doesn’t have “Paid” status), please kindly contact Shopify team to request for a cancellation on this charge.
 
 ## How will I Receive My Refund?
 
 The refund process might take **5 – 7 working days**. When the request has been approved, we will transfer the amount to Shopify payment gateway. After that Shopify will handle the rest, you will receive the amount in a couple of days depending on your bank.
 
-**Hope this instruction from Beae team will help you understand the refund process better!**
+**Hope this instruction will help you understand the refund process better!**
 
-## Frequently Asked Questions  <a href="#id-1-frequently-asked-questions" id="id-1-frequently-asked-questions"></a>
+## Frequently Asked Questions <a href="#id-1-frequently-asked-questions" id="id-1-frequently-asked-questions"></a>
 
 1. **If I am on a paid plan, what will happen to my current plan if I delete and reinstall the app?**
 
-After deleting the app, you will automatically be downgraded to the **Free plan** by default.&#x20;
+After deleting the app, you will automatically be downgraded to the **Free plan** by default.
 
 2. **In case I delete the app but still get charged, why does that happen?**
 

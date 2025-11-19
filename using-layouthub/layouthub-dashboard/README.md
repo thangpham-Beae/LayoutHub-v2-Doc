@@ -19,7 +19,7 @@ LayoutHub dashboard is your main control center in LayoutHub, providing quick ac
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-19 at 16.54.03.png" alt=""><figcaption></figcaption></figure>
 
-## In this series:
+## In this series
 
 {% content-ref url="welcome-dashboard.md" %}
 [welcome-dashboard.md](welcome-dashboard.md)
