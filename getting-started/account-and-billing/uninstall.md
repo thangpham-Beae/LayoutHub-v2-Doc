@@ -84,7 +84,7 @@ If you're experiencing issues or have concerns, please contact our **24/7 suppor
 
 ## Frequently Asked Questions
 
-#### 1. Is it possible to restore data after uninstalling LayoutHub?
+### 1. Is it possible to restore data after uninstalling LayoutHub?
 
 **Yes, you can restore data after uninstalling within 30 days.**
 
@@ -92,4 +92,21 @@ After the uninstallation process is complete, all pages and sections you created
 
 How to restore page and section form Trash? Please check [this article](../../page-and-section-management/detele-and-restore-deleted-template.md).&#x20;
 
-#### 2. What happens to my live store after uninstalling PageFly?
+### 2. What happens to my live store after uninstalling LayoutHub?
+
+**All pages and sections created with LayoutHub still work normally.**
+
+Don’t worry, all the pages you’ve created and published in your theme and live page will still work as normal. However, you won’t be able to edit them after uninstalling LayoutHub.&#x20;
+
+### 3. What about my subscription and billing?
+
+* Your LayoutHub subscription is terminated immediately upon uninstallation.
+* You may continue to be charged until the end of your current Shopify billing cycle (this is managed by Shopify's billing system, not LayoutHub).
+* Any special pricing, discounts, or promotional rates will be permanently lost.
+* If you reinstall LayoutHub later, you will be subject to the pricing plans in effect at the time of your installation.&#x20;
+
+### 4. How do I remove all LayoutHub code from my theme?&#x20;
+
+Removing code requires direct changes to your theme and can be complex. We don’t recommend doing this on your own. Please contact our support team to get assistance from our experts.&#x20;
+
+To get support, please check [this article](../../faq-and-common-issues/faq/how-do-i-get-support.md).

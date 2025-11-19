@@ -93,6 +93,7 @@
 * [FAQ](faq-and-common-issues/faq/README.md)
   * [What heppened if I downgrade my plan?](faq-and-common-issues/faq/what-heppened-if-i-downgrade-my-plan.md)
   * [How to get store password?](faq-and-common-issues/faq/how-to-get-store-password.md)
+  * [How do I get support?](faq-and-common-issues/faq/how-do-i-get-support.md)
 * [Common issues](faq-and-common-issues/common-issues/README.md)
   * [256kb](faq-and-common-issues/common-issues/256kb.md)
 
