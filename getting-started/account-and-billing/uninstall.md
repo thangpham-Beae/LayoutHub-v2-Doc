@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this article, you will learn about how to uninstall LayoutHub and what will happen to your LayoutHub pages if you uninstall the app from your Shopify store.
+In this article, you will learn about how to uninstall LayoutHub and what will happen to your LayoutHub pages and section if you uninstall the app from your Shopify store.
 
 By following this article, you can uninstall LayoutHub without encountering any unexpected obstacles.
 
