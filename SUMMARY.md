@@ -10,7 +10,7 @@
   * [Quick start guide](getting-started/setup-and-quick-start/quick-start-guide.md)
 * [Account and Billing](getting-started/account-and-billing/README.md)
   * [Free Trail](getting-started/account-and-billing/free-trail.md)
-  * [Plan\&Pricing](getting-started/account-and-billing/plan-and-pricing.md)
+  * [Plan and Pricing](getting-started/account-and-billing/plan-and-pricing.md)
   * [Change your plan](getting-started/account-and-billing/change-your-plan.md)
   * [Refund](getting-started/account-and-billing/refund.md)
   * [Uninstall LayoutHub app](getting-started/account-and-billing/uninstall.md)
