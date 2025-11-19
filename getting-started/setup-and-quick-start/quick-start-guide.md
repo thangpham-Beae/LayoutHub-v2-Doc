@@ -12,7 +12,7 @@ description: >-
 
 {% stepper %}
 {% step %}
-#### **Enter your store password**&#x20;
+**Enter your store password**
 
 {% hint style="success" %}
 Steps:
@@ -29,11 +29,11 @@ Steps:
 If your store is protected by a password, please enter it to continue using LayoutHub – Easy Page Builder. If your storefront password is already disabled, you can skip this step.
 {% endhint %}
 
-If you don't know how to get your store password, check out [this article.](../../faq-and-common-issues/faq/where-can-i-find-my-store-password.md)
+If you don't know how to get your store password, check out [this article.](../../faq-and-common-issues/faq/how-to-get-store-password.md)
 {% endstep %}
 
 {% step %}
-#### **Enable** Theme app extensions
+**Enable Theme app extensions**
 
 To ensure all features work smoothly and the best experience, you need to enable the **Theme app extensions.**
 
@@ -53,7 +53,7 @@ After successfully enabling the theme app extension, **the system will notify "T
 {% endstep %}
 
 {% step %}
-#### Start building your first page&#x20;
+**Start building your first page**
 
 [Create your first page](../../page-and-section-management/page-creation/)
 {% endstep %}
