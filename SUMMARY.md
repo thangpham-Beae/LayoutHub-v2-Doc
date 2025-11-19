@@ -43,7 +43,7 @@
 * [Restore default template](page-and-section-management/restore-default-template.md)
 * [Duplicate a template](page-and-section-management/duplicate-a-template.md)
 * [Integrations](page-and-section-management/integrations.md)
-* Build-in advance features
+* [Build-in advance features](page-and-section-management/build-in-advance-features/README.md)
   * [Overview](page-and-section-management/build-in-advance-features/overview.md)
   * [A/B testing](page-and-section-management/build-in-advance-features/a-b-testing.md)
   * [Performance](page-and-section-management/build-in-advance-features/performance.md)
