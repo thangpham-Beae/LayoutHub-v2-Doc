@@ -46,7 +46,7 @@
 * [Duplicate a template](page-and-section-management/duplicate-a-template.md)
 * [Integrations](page-and-section-management/integrations.md)
 * Build-in Advance Features
-  * [Overview](page-and-section-management/build-in-advance-features/overview.md)
+  * [Advance Features Overview](page-and-section-management/build-in-advance-features/overview.md)
   * [A/B testing](page-and-section-management/build-in-advance-features/a-b-testing.md)
   * [Performance](page-and-section-management/build-in-advance-features/performance.md)
   * [Live Translation](page-and-section-management/build-in-advance-features/live-translation.md)
