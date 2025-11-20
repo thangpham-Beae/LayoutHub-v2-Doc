@@ -17,6 +17,10 @@ LayoutHub dashboard is your main control center in LayoutHub, providing quick ac
 1. Sidebar Navigation&#x20;
 2. Main Workspace.
 
+{% hint style="success" %}
+Tip: In the main workspace, there is always a chat box so you can contact the LayoutHub Customer Success team. Available 24/7 to answer all your questions.&#x20;
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-19 at 16.54.03.png" alt=""><figcaption></figcaption></figure>
 
 ## In this series
