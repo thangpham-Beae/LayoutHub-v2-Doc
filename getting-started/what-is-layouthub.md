@@ -46,7 +46,7 @@ Built with the mission of **helping merchants launch better e-commerce experienc
 
 LayoutHub is designed to be the easiest page builder for Shopify. The editor follows the Shopify Customizer, so there’s no learning curve. You don’t need to drag and drop, avoiding messy layouts or performance issues. Options are kept minimal and focused on essential, easy-to-understand adjustments—no complex or abstract settings. Instead of building from scratch, you can simply choose a template and customize it, saving time and ensuring consistent, high-quality results.
 
-[Learn more](../using-layouthub/layouthub-editor.md)
+[Learn more](../using-layouthub/layouthub-editor/)
 
 </details>
 

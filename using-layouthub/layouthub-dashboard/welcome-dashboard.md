@@ -32,7 +32,7 @@ See more details about LayoutHub plans and pricing at [this article](../../getti
 
 ## Recently edited  <a href="#recntly-edtited" id="recntly-edtited"></a>
 
-Shows the pages you recently edited, allowing you to quickly access them.
+Displays your recently edited pages and provides quick access so you can resume your work instantly.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-20 at 14.27.19.png" alt=""><figcaption></figcaption></figure>
 
@@ -54,6 +54,18 @@ To learn more about page management, please check [this article](page.md).
 
 ## Support channels <a href="#support-channels" id="support-channels"></a>
 
-LayoutHub’s support channels include: Help center, [Video tutorials](https://www.youtube.com/@LayoutHubEasyPageBuilder), [LayoutHub community](https://www.facebook.com/groups/layouthub), and Request features.
+The Support Channels section gives you direct access to everything you need to solve problems quickly, learn faster, and stay connected with the LayoutHub team. It helps you get answers, improve your workflow, and request new features—all in one place.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-20 at 15.00.23.png" alt=""><figcaption></figcaption></figure>
+
+**Help center**\
+Find clear, step-by-step guides to help you troubleshoot issues and understand how LayoutHub works.
+
+**Video tutorials**\
+Learn faster through short, engaging video lessons that walk you through common tasks and features.
+
+**LayoutHub community**\
+Stay updated with product news, tips, and exclusive resources while connecting with other Shopify merchants.
+
+**Request features**\
+Share the improvements or new ideas you’d love to see in LayoutHub so we can continue building what matters most to you.
