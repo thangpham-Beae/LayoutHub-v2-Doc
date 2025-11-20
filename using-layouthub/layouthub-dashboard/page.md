@@ -1,8 +1,4 @@
----
-description: Page
----
-
-# Page
+# Page management
 
 ### 📘 Documentation Coming Soon
 

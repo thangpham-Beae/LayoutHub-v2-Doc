@@ -16,13 +16,9 @@ The Welcome Dashboard is the first screen you see when accessing the LayoutHub a
 
 ## Plan and usage  <a href="#plan-usage" id="plan-usage"></a>
 
+Displays basic information about your pla&#x6E;**,** you can use this information to manage your plan and publish slots, and decide whether you need to upgrade.
+
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-20 at 13.35.02.png" alt=""><figcaption></figcaption></figure>
-
-**Displays basic information about your plan, including:**
-
-* Plan name
-* Number of publish slots
-* Number of publish slots used
 
 In this example:
 
@@ -30,12 +26,34 @@ In this example:
 * Number of publish slots: 10 slots
 * Publish slots used: 3 slots
 
-You can use this information to manage your plan and publish slots, and decide whether you need to upgrade.
-
-{% hint style="success" %}
+{% hint style="info" %}
 See more details about LayoutHub plans and pricing at [this article](../../getting-started/account-and-billing/plan-and-pricing.md).
 {% endhint %}
 
 ## Recently edited  <a href="#recntly-edtited" id="recntly-edtited"></a>
 
+Shows the pages you recently edited, allowing you to quickly access them.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-20 at 14.27.19.png" alt=""><figcaption></figcaption></figure>
+
+### Components
+
+1. **Page Category**: groups pages by page type.
+2. **Search**: search pages by name.
+3. **Sort**: sort pages based on selected conditions.
+4. **Create a new page**: create a new page.
+5. **Page list:** displayed based on the selected Category and Sort options.&#x20;
+
+**Pro tip**: You can hover on each page to use quick action options.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-20 at 15.44.45.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+To learn more about page management, please check [this article](page.md).
+{% endhint %}
+
 ## Support channels <a href="#support-channels" id="support-channels"></a>
+
+LayoutHub’s support channels include: Help center, [Video tutorials](https://www.youtube.com/@LayoutHubEasyPageBuilder), [LayoutHub community](https://www.facebook.com/groups/layouthub), and Request features.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-20 at 15.00.23.png" alt=""><figcaption></figcaption></figure>
