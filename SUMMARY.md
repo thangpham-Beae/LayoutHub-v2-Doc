@@ -25,7 +25,7 @@
     * [Global Theme Style](using-layouthub/layouthub-dashboard/function/global-theme-style.md)
     * [Swatch colors v2.0](using-layouthub/layouthub-dashboard/function/swatch-colors-v2.0.md)
   * [Preferences](using-layouthub/layouthub-dashboard/preferences.md)
-* [LayoutHub Editor](using-layouthub/layouthub-editor/README.md)
+* [LayoutHub Editor V2](using-layouthub/layouthub-editor/README.md)
   * [Overview](using-layouthub/layouthub-editor/overview.md)
   * [Editor Features](using-layouthub/layouthub-editor/editor-features.md)
   * [Page settings](using-layouthub/layouthub-editor/page-settings.md)
@@ -48,10 +48,10 @@
 * [Integrations](page-and-section-management/integrations.md)
 * Build-in Advance Features
   * [Advance Features Overview](page-and-section-management/build-in-advance-features/overview.md)
+  * [Page Analytics](page-and-section-management/build-in-advance-features/analytics.md)
   * [A/B testing](page-and-section-management/build-in-advance-features/a-b-testing.md)
   * [Performance](page-and-section-management/build-in-advance-features/performance.md)
   * [Live Translation](page-and-section-management/build-in-advance-features/live-translation.md)
-  * [Analytics](page-and-section-management/build-in-advance-features/analytics.md)
   * [Multi market support](page-and-section-management/build-in-advance-features/multi-market-support.md)
 
 ## Legacy Editor
