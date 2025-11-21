@@ -55,7 +55,7 @@ Provide options to manage your experience with LayoutHub.
 
 If you have a storefront password, you need to enter it in order to see your store's theme in LayoutHub. Don't worry, your store is still password protected.
 
-**How do editor settings work?**\
+**How do Editor settings work?**\
 These options in Editor settings are for **Legacy Editor version** only.&#x20;
 
 * **Auto sync layout when change theme:** When you changed the theme, The app will automatically sync your layouts to the new theme (It maybe overwrite default template).
@@ -77,9 +77,9 @@ You can optionally sync all layouts or just the layout you need by open **dropdo
 {% hint style="success" %}
 Steps:
 
-1. Open **Dropdown menu**
-2. Choose **the layout you want to sync**
-3. Click **Start sync**
+1. Open **Dropdown menu.**
+2. Choose **the layout you want to sync.**
+3. Click **Start sync** to sync your layout.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-21 at 10.08.21.png" alt=""><figcaption></figcaption></figure>
@@ -96,11 +96,32 @@ Click **Enable now** to enable LayoutHub theme app extensions.
 
 ### 7. Add code to your theme
 
-Mor
+ Tính năng lỗi nên chưa test chính xác được&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-21 at 10.45.48.png" alt=""><figcaption></figcaption></figure>
 
 ### 8. Danger zone
+
+Manage global layout and subscription settings.&#x20;
+
+*   **Restore original layout:**&#x20;
+
+    Tính năng lỗi nên chưa test chính xác được.
+
+
+*   **Cancellation:**&#x20;
+
+    Cancel LauoutHub subscription and downgrade your plan to Free plan.&#x20;
+
+{% hint style="info" %}
+What heppened if I downgrade my plan? Check [this article](../../faq-and-common-issues/faq/what-heppened-if-i-downgrade-my-plan.md).
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-21 at 11.05.03.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+This section includes critical actions that may impact your data or app configuration. Please proceed carefully.
+{% endhint %}
 
 
 
