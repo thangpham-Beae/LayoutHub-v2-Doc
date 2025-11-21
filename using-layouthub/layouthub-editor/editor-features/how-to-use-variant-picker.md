@@ -1,5 +1,6 @@
 ---
 description: Learn how to use LayoutHub Variant Picker.
+hidden: true
 ---
 
 # How to use Variant Picker?
