@@ -20,7 +20,7 @@ Shopify manages the app’s payment, and they will charge users when users activ
 
 Requesting a refund from LayoutHub also means that you will cease using LayoutHub paid plans.
 
-* If you decide to downgrade from a higher plan to a lower plan (e.g. PayG-30 to PayG-10 or Enterprise to PayG-10) or downgrade to the Free plan, please check [this article](refund.md#what-happens-to-my-pages-if-i-request-a-refund).
+* If you decide to downgrade from a higher plan to a lower plan (e.g. PayG-30 to PayG-10 or Enterprise to PayG-10) or downgrade to the Free plan, please check [this article](change-your-plan.md).
 * If you decide to cancel your plan, please check [this article](change-your-plan.md#what-happens-if-i-cancel-my-pan).
 
 ## What do I need to prepare to request a refund?

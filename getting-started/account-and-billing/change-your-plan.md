@@ -84,7 +84,7 @@ After your plan activation and payment are confirmed, you will be redirected to 
 {% hint style="success" %}
 Steps:
 
-1. Access LayoutHub app and click **Preference** in the left column.
+1. Access LayoutHub app and click **Preferences** in the left column.
 2. Click Danger zone.
 3. Click Cancel plan.
 {% endhint %}

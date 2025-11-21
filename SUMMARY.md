@@ -27,7 +27,8 @@
   * [Preferences](using-layouthub/layouthub-dashboard/preferences.md)
 * [LayoutHub Editor V2](using-layouthub/layouthub-editor/README.md)
   * [Overview](using-layouthub/layouthub-editor/overview.md)
-  * [Editor Features](using-layouthub/layouthub-editor/editor-features.md)
+  * [Editor Features](using-layouthub/layouthub-editor/editor-features/README.md)
+    * [How to use Variant Picker?](using-layouthub/layouthub-editor/editor-features/how-to-use-variant-picker.md)
   * [Page settings](using-layouthub/layouthub-editor/page-settings.md)
 
 ## Page and Section management
