@@ -56,8 +56,6 @@ LayoutHub is designed to be the easiest page builder for Shopify. The editor fol
 
 LayoutHub provides a newly redesigned template library focused on performance and sales-driven functionality to help improve conversions. With a collection growing toward thousands of layouts, you can easily find designs that fit any eCommerce use case.
 
-[Learn more](https://layouthub.com/pages/template-library)
-
 </details>
 
 <details>
