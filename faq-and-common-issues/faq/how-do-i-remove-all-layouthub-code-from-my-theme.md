@@ -1,2 +1,6 @@
 # How do I remove all LayoutHub code from my theme?
 
+### 📘 Documentation Coming Soon
+
+We're currently working on this documentation to ensure it’s clear, complete, and truly helpful for you.\
+Please check back soon — new content is on the way!
