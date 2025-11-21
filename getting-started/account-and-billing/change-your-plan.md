@@ -41,7 +41,7 @@ In this case is PayG 10-slot = Pay as you go 10-slots.
 
 After step 1, you will redirect to Switch plan page. Pick the plan you want to upgrade or downgrade to.
 
-After pick the plan you want, click **Upgrade** to upgrade your plan or **Downgrade** to downgrade your plan.
+Pick the plan you want then click **Upgrade** to upgrade your plan or **Downgrade** to downgrade your plan.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-17 at 22.13.33.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

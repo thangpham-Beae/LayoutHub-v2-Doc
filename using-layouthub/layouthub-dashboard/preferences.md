@@ -55,15 +55,50 @@ Provide options to manage your experience with LayoutHub.
 
 If you have a storefront password, you need to enter it in order to see your store's theme in LayoutHub. Don't worry, your store is still password protected.
 
-**How do editor settings work?fd**&#x20;
+**How do editor settings work?**\
+These options in Editor settings are for **Legacy Editor version** only.&#x20;
 
+* **Auto sync layout when change theme:** When you changed the theme, The app will automatically sync your layouts to the new theme (It maybe overwrite default template).
+* **Reload page after added to cart:** By default, we will redirect to the cart page after you add to the cart, if this option is enabled, it will reload the current page instead of going to the shopping cart page.
+* **JQuery:** improve compatibility with animations, events, and dynamic features.
 
+{% hint style="info" %}
+If you haven’t upgraded to the latest Editor V2 yet, we encourage you to do so for a faster, easier, and more powerful page-building experience.
+{% endhint %}
 
 ### 5. Theme management&#x20;
 
+If you change your theme, you can sync all LayoutHub layouts to the new theme. After syncing, any pages with unpublished sections or updates will be fully published.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-21 at 10.00.41.png" alt=""><figcaption></figcaption></figure>
+
+You can optionally sync all layouts or just the layout you need by open **dropdown menu** and **choose the layout** you want. By default all layouts will be synchronized.
+
+{% hint style="success" %}
+Steps:
+
+1. Open **Dropdown menu**
+2. Choose **the layout you want to sync**
+3. Click **Start sync**
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-21 at 10.08.21.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-21 at 10.11.01.png" alt=""><figcaption></figcaption></figure>
+
 ### 6. Theme app extensions
 
+Enable theme app extension to ensure LayoutHub works smoothly with your store front.
+
+Click **Enable now** to enable LayoutHub theme app extensions.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-21 at 10.40.46.png" alt=""><figcaption></figcaption></figure>
+
 ### 7. Add code to your theme
+
+Mor
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-21 at 10.45.48.png" alt=""><figcaption></figcaption></figure>
 
 ### 8. Danger zone
 
