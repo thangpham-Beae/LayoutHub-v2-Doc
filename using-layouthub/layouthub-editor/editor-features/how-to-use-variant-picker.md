@@ -11,9 +11,8 @@ In this article, we'll show you how to use Variant Picker to display your produc
 
 ## What is Variant Picker?
 
-Variant picker (lựa chọn biến thể) trên cửa hàng thương mại điện tử đóng vai trò quan trọng trong việc nâng cao trải nghiệm mua sắm của khách hàng bằng cách cho phép người mua xem và chọn các phiên bản khác nhau của sản phẩm một cách liền mạch, chẳng hạn như kích thước, màu sắc, chất liệu hoặc các thuộc tính khác.
-
-Variant Picker thường xuất hiện ở Feature Collection và Feature Product.&#x20;
+The variant picker helps customers choose the version of a product they want—like size, color, or material.\
+You’ll usually see it in the Featured Collection and Featured Product sections.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2025-11-21 at 14.58.43.png" alt=""><figcaption></figcaption></figure>
 
@@ -45,13 +44,22 @@ To ensure the LayoutHub Variant Picker detects your variant correctly, please en
 
 ### Show variant image
 
-You can optionally display Variant color or display Variant image.&#x20;
+Enable **Show variant image** to display variant as product option image.
 
-If the show variant image option is not enabled, the variant image will be displayed by default.
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-11-22 at 11.03.09.png" alt=""><figcaption></figcaption></figure>
 
-#### Variant color
+#### What is Variant Image?
 
+A Variant Image is the **specific photo that matches each option of a product**.
 
+For example, if a shirt has **two colors: black and white**:
+
+* When a customer selects **black**, they will see the **black shirt photo**.
+* When they choose **white**, the image changes to the **white shirt photo**.
+
+This helps shoppers always see the correct image for the option they are choosing.
+
+x
 
 What is the difference between variant color and variant image?
 
