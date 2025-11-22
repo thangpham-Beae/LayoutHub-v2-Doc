@@ -30,6 +30,7 @@
   * [Overview](using-layouthub/layouthub-editor/overview.md)
   * [Editor Features](using-layouthub/layouthub-editor/editor-features/README.md)
     * [How to use Variant Picker?](using-layouthub/layouthub-editor/editor-features/how-to-use-variant-picker.md)
+    * [How to display product ratings?](using-layouthub/layouthub-editor/editor-features/how-to-display-product-ratings.md)
   * [Page settings](using-layouthub/layouthub-editor/page-settings.md)
 
 ## Page and Section management
