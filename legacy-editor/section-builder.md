@@ -26,7 +26,7 @@ Once the layout panel opens, use the search bar or categories to find your desir
 
 Click **Save Template** to prepare your changes.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 Then, click **Save Now** to apply and finish saving/publishing.
 

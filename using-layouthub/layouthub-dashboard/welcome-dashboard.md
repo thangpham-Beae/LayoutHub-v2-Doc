@@ -14,7 +14,7 @@ In this article, we will introduce you to the welcome dashboard, its components 
 
 The Welcome Dashboard is the first screen you see when accessing the LayoutHub app. It gives you a quick overview of key information, including [**Plan and usage**](welcome-dashboard.md#plan-usage), [**Recently edited**](welcome-dashboard.md#recntly-edtited), and [**Support channels**](welcome-dashboard.md#support-channels).&#x20;
 
-## Plan and usage  <a href="#plan-usage" id="plan-usage"></a>
+### Plan and usage  <a href="#plan-usage" id="plan-usage"></a>
 
 Displays basic information about your pla&#x6E;**,** you can use this information to manage your plan and publish slots, and decide whether you need to upgrade.
 
@@ -30,13 +30,13 @@ In this example:
 See more details about LayoutHub plans and pricing at [this article](../../getting-started/account-and-billing/plan-and-pricing.md).
 {% endhint %}
 
-## Recently edited  <a href="#recntly-edtited" id="recntly-edtited"></a>
+### Recently edited  <a href="#recntly-edtited" id="recntly-edtited"></a>
 
 Displays your recently edited pages and provides quick access so you can resume your work instantly.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-20 at 14.27.19.png" alt=""><figcaption></figcaption></figure>
 
-### Components
+#### Components
 
 1. **Page Category**: groups pages by page type.
 2. **Search**: search pages by name.
@@ -49,10 +49,10 @@ Displays your recently edited pages and provides quick access so you can resume 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-20 at 15.44.45.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-To learn more about page management, please check [this article](page.md).
+To learn more about page management, please check [this article](page-management.md).
 {% endhint %}
 
-## Support channels <a href="#support-channels" id="support-channels"></a>
+### Support channels <a href="#support-channels" id="support-channels"></a>
 
 The Support Channels section gives you direct access to everything you need to solve problems quickly, learn faster, and stay connected with the LayoutHub team. It helps you get answers, improve your workflow, and request new features—all in one place.
 

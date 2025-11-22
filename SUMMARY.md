@@ -48,7 +48,7 @@
 * [Restore default template](page-and-section-management/restore-default-template.md)
 * [Duplicate a template](page-and-section-management/duplicate-a-template.md)
 * [Integrations](page-and-section-management/integrations.md)
-* Build-in Advance Features
+* [Build-in Advance Features](page-and-section-management/build-in-advance-features/README.md)
   * [Advance Features Overview](page-and-section-management/build-in-advance-features/overview.md)
   * [Page Analytics](page-and-section-management/build-in-advance-features/analytics.md)
   * [A/B testing](page-and-section-management/build-in-advance-features/a-b-testing.md)
@@ -100,6 +100,7 @@
   * [What heppened if I downgrade my plan?](faq-and-common-issues/faq/what-heppened-if-i-downgrade-my-plan.md)
   * [How to get store password?](faq-and-common-issues/faq/how-to-get-store-password.md)
   * [How do I get support?](faq-and-common-issues/faq/how-do-i-get-support.md)
+  * [Where can I get the variant name?](faq-and-common-issues/faq/where-can-i-get-the-variant-name.md)
 * [Common issues](faq-and-common-issues/common-issues/README.md)
   * [256kb](faq-and-common-issues/common-issues/256kb.md)
 

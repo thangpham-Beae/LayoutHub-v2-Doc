@@ -29,8 +29,8 @@ Tip: In the main workspace, there is always a chat box so you can contact the La
 [welcome-dashboard.md](welcome-dashboard.md)
 {% endcontent-ref %}
 
-{% content-ref url="page.md" %}
-[page.md](page.md)
+{% content-ref url="page-management.md" %}
+[page-management.md](page-management.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../page-and-section-management/build-in-advance-features/analytics.md" %}
