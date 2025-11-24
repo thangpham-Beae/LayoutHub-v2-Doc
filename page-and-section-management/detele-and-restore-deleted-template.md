@@ -1,8 +1,8 @@
 ---
-description: Learn about trash and how to manage or recover deleted items
+description: Learn about trash and how to manage or recover deleted items.
 ---
 
-# Manage and recover deleted items
+# Manage and recover deleted page
 
 ## Overview
 
@@ -20,9 +20,11 @@ You can access Trash by clicking Page and selecting Trash.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-24 at 10.08.30.png" alt=""><figcaption></figcaption></figure>
 
-## How to restore deleted page from Trash?&#x20;
+## How To Use Trash To Manage Deleted Pages, Sections?
 
-To restore deleted page from Trash you need to access Trash and follow these steps:
+### Restore deleted page&#x20;
+
+Select the page you want to restore and click **Restore**. The page will be immediately reverted to your Page management.
 
 {% hint style="success" %}
 Steps:
@@ -33,7 +35,9 @@ Steps:
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-24 at 09.47.19.png" alt=""><figcaption></figcaption></figure>
 
-## How to permanently delete a page?&#x20;
+### Delete page permanently
+
+In case you want to delete a page forever, select the page and click **Delete forever**. There will be a popup window to confirm again.
 
 {% hint style="success" %}
 Steps:
@@ -46,6 +50,10 @@ Steps:
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-24 at 09.56.52.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-24 at 09.58.24.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+After permanent deletion will not be recoverable.
+{% endhint %}
 
 ## Frequently Asked Questions
 
@@ -62,3 +70,4 @@ Yes, you can restore your page in Trash within the next 30 days. After this time
 No, you can’t. Once you delete the pages forever, you **cannot restore** them.
 
 {% include "../.gitbook/includes/have-a-question-contact-us-....md" %}
+
