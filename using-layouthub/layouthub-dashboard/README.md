@@ -14,7 +14,7 @@ LayoutHub dashboard is your main control center in LayoutHub, providing quick ac
 
 **The LayoutHub Dashboard is organized into two main sections:**&#x20;
 
-1. Sidebar Navigation&#x20;
+1. Sidebar Navigation.&#x20;
 2. Main Workspace.
 
 {% hint style="success" %}

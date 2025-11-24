@@ -59,7 +59,9 @@ After permanent deletion will not be recoverable.
 
 **1. Where do my deleted pages go?**
 
-All your deleted pages/sections will be stored in Trash. You can find them in **LayoutHub Dashboard** > **Page** > **Trash.**
+All your deleted pages/sections will be stored in Trash.&#x20;
+
+You can find them in **LayoutHub Dashboard** > **Page** > **Trash.**
 
 **2. I accidentally deleted my page, can I recover it?**
 
