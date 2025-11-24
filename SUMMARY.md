@@ -45,7 +45,7 @@
 * [LayoutHub Shopify Section](page-and-section-management/layouthub-shopify-section.md)
 * [Publish and Unpublish](page-and-section-management/publish-and-unpublish.md)
 * [Export/Import](page-and-section-management/export-import.md)
-* [Detele tempalte and Restore deleted template](page-and-section-management/detele-and-restore-deleted-template.md)
+* [Manage and recover deleted items](page-and-section-management/detele-and-restore-deleted-template.md)
 * [Restore default template](page-and-section-management/restore-default-template.md)
 * [Duplicate a template](page-and-section-management/duplicate-a-template.md)
 * [Integrations](page-and-section-management/integrations.md)
