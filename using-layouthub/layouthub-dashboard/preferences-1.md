@@ -97,32 +97,40 @@ Click **Enable now** to enable LayoutHub theme app extensions.
 
 ### 7. Add code to your theme
 
- Tính năng lỗi nên chưa test chính xác được&#x20;
+Add your custom CSS for advanced editing.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-11-21 at 10.45.48.png" alt=""><figcaption></figcaption></figure>
+{% hint style="warning" %}
+Note: CSS added here will affect your entire current theme, including pages created in LayoutHub and all remaining pages in your current theme.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-25 at 14.16.08.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+Steps:
+
+1. Add your CSS code.
+2. Click the **Save button.**
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-25 at 14.10.34 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 8. Danger zone
 
-Manage global layout and subscription settings.&#x20;
+Cancel LayoutHub subscription and downgrade to Free plan.
 
-*   **Restore original layout:**&#x20;
-
-    Tính năng lỗi nên chưa test chính xác được.
-
-
-*   **Cancellation:**&#x20;
-
-    Cancel LauoutHub subscription and downgrade your plan to Free plan.&#x20;
-
-{% hint style="info" %}
-What heppened if I downgrade my plan? Check [this article](../../faq-and-common-issues/faq/what-heppened-if-i-downgrade-my-plan.md).
+{% hint style="warning" %}
+What happened if I downgrade my plan? Check [this article](../../faq-and-common-issues/faq/what-heppened-if-i-downgrade-my-plan.md).
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-11-21 at 11.05.03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-25 at 14.19.47.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Steps:
+
+1. Click **Cancel plan**.
+2.
+{% endhint %}
 
 {% hint style="danger" %}
 This section includes critical actions that may impact your data or app configuration. Please proceed carefully.
 {% endhint %}
-
-
-

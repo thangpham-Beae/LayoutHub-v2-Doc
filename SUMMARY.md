@@ -98,7 +98,7 @@
 
 * [FAQ](faq-and-common-issues/faq/README.md)
   * [How do I remove all LayoutHub code from my theme?](faq-and-common-issues/faq/how-do-i-remove-all-layouthub-code-from-my-theme.md)
-  * [What heppened if I downgrade my plan?](faq-and-common-issues/faq/what-heppened-if-i-downgrade-my-plan.md)
+  * [What happened if I downgrade my plan?](faq-and-common-issues/faq/what-heppened-if-i-downgrade-my-plan.md)
   * [How to get store password?](faq-and-common-issues/faq/how-to-get-store-password.md)
   * [How do I get support?](faq-and-common-issues/faq/how-do-i-get-support.md)
   * [Where can I get the variant name?](faq-and-common-issues/faq/where-can-i-get-the-variant-name.md)

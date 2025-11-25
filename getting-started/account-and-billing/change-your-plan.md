@@ -14,7 +14,7 @@ Any changes to your Plan will take effect immediately.
 What happens if I downgrade my plan? Please check [this article](../../faq-and-common-issues/faq/what-heppened-if-i-downgrade-my-plan.md).
 {% endhint %}
 
-## Here's how to upgrade or yo downgrade your plan
+## Here's how to upgrade or yo downgrade your plan <a href="#switch-plan-page" id="switch-plan-page"></a>
 
 {% stepper %}
 {% step %}
@@ -89,7 +89,11 @@ Steps:
 3. Click Cancel plan.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-11-18 at 13.21.20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-25 at 14.32.54.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+You also can downgrade to Free plan in [**Switch plan page.**](https://docs.layouthub.com/getting-started/account-and-billing/change-your-plan#heres-how-to-upgrade-or-yo-downgrade-your-plan)
+{% endhint %}
 
 ## What happens if I cancel my pan?
 
@@ -97,7 +101,7 @@ You will be required to **unpublish pages and sections** before cancelling the p
 
 Click **Manages page** to unpublish pages and sections.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-11-17 at 22.49.58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-25 at 14.35.14.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Don't know how to unpublish pages and sections, check [this article](../../page-and-section-management/publish-and-unpublish.md).
