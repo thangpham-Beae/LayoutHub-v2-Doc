@@ -1,9 +1,8 @@
 ---
 description: Learn how to manage your page with Pages
-hidden: true
 ---
 
-# Copy Page management
+# Page management
 
 ## Overview
 
@@ -23,13 +22,13 @@ Click **Pages** on Shopify side bar to access Pages.
 
 **Manage your page with options from basic to advanced:**
 
-1. [Find your page based on page type](page-management-1.md#find-your-page-based-on-page-type)
-2. [Export and Import ](page-management-1.md#export-and-import)
-3. [Create a new page](page-management-1.md#create-a-new-page)&#x20;
-4. [Duplicate a page](page-management-1.md#duplicate-a-page)
-5. [Delete and mange deleted page ](page-management-1.md#delete-and-mange-deleted-page)
-6. [Make a page as default template and restore default template](page-management-1.md#make-a-page-as-default-template-and-restore-default-template)&#x20;
-7. [Track page metrics with page analytics](page-management-1.md#track-page-metrics-with-page-analytics)
+1. [Find your page based on page type](page-management.md#find-your-page-based-on-page-type)
+2. [Export and Import ](page-management.md#export-and-import)
+3. [Create a new page](page-management.md#create-a-new-page)&#x20;
+4. [Duplicate a page](page-management.md#duplicate-a-page)
+5. [Delete and mange deleted page ](page-management.md#delete-and-mange-deleted-page)
+6. [Make a page as default template and restore default template](page-management.md#make-a-page-as-default-template-and-restore-default-template)&#x20;
+7. [Track page metrics with page analytics](page-management.md#track-page-metrics-with-page-analytics)
 
 ### 1. Find your page based on page type
 
