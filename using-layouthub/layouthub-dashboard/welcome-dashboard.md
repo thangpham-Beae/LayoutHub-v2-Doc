@@ -70,3 +70,11 @@ Stay updated with product news, tips, and exclusive resources while connecting w
 
 **Request features**\
 Share the improvements or new ideas you’d love to see in LayoutHub so we can continue building what matters most to you.
+
+### Change log&#x20;
+
+Keep track of all updates and improvements made to the app, so you can easily follow what’s new, what’s improved, and what has changed over time.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+{% include "../../.gitbook/includes/have-a-question-contact-us-....md" %}
