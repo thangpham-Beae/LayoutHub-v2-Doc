@@ -1,9 +1,8 @@
 ---
 description: Learn how to manage your page with Pages
-hidden: true
 ---
 
-# Copy Page management
+# Page management
 
 ## Overview
 
@@ -24,32 +23,36 @@ Click **Pages** on Shopify side bar to access Pages.
 **Manage your page with options from basic to advanced:**
 
 1. [Find your page based on page type](page-management-1.md#find-your-page-based-on-page-type)
-2. [Export and Import ](page-management-1.md#export-and-import)
-3. [Create a new page](page-management-1.md#create-a-new-page)&#x20;
+2. [Export and Import](page-management-1.md#export-and-import)
+3. [Create a new page](page-management-1.md#create-a-new-page)
 4. [Duplicate a page](page-management-1.md#duplicate-a-page)
-5. [Delete and mange deleted page ](page-management-1.md#delete-and-mange-deleted-page)
-6. [Make a page as default template and restore default template](page-management-1.md#make-a-page-as-default-template-and-restore-default-template)&#x20;
+5. [Delete and mange deleted page](page-management-1.md#delete-and-mange-deleted-page)
+6. [Make a page as default template and restore default template](page-management-1.md#make-a-page-as-default-template-and-restore-default-template)
 7. [Track page metrics with page analytics](page-management-1.md#track-page-metrics-with-page-analytics)
 
 ### 1. Find your page based on page type
 
 If you have a lot of pages created, you can easily manage and search for the page you need with Page category
 
-LayoutHub currently supports creating 7 page types:&#x20;
+LayoutHub currently supports creating 7 page types:
 
 1. [Regular](../../page-and-section-management/page-creation/regular-page.md)
 2. [Home](../../legacy-editor/featured-elements/homepage/)
+<<<<<<< HEAD
 3. [Product ](../../page-and-section-management/page-creation/product-page.md)
+=======
+3. [Product](../../page-and-section-management/page-creation/product-page.md)
+>>>>>>> ac3ce90c2306349e4cf52ccd0ea3aa76ad093b94
 4. [Collection](../../page-and-section-management/page-creation/collection-page.md)
 5. [Blog](../../page-and-section-management/page-creation/blog-page.md)
 6. [Blog post](../../page-and-section-management/page-creation/blog-post.md)
-7. [Section](../../page-and-section-management/layouthub-shopify-section.md)&#x20;
+7. [Section](../../page-and-section-management/layouthub-shopify-section.md)
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-26 at 11.46.17.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Export and Import
 
-Export and Import allow you to save your page to your device and reuse it whenever needed.&#x20;
+Export and Import allow you to save your page to your device and reuse it whenever needed.
 
 {% hint style="info" %}
 Lean more about how to use Export and Import feature in [this article](../../page-and-section-management/export-import.md)**.**
@@ -61,11 +64,11 @@ Lean more about how to use Export and Import feature in [this article](../../pag
    Export your page and save it on your device as a backup. This ensures you can easily restore the page if anything unexpected happens.
 2. **Use the same page on another store**\
    Export a page from Store A and import it into Store B whenever needed.\
-   &#xNAN;_(Both stores must be using LayoutHub.)_
+   \&#xNAN;_(Both stores must be using LayoutHub.)_
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-26 at 11.57.56.png" alt=""><figcaption></figcaption></figure>
 
-### 3. Create a new page&#x20;
+### 3. Create a new page
 
 Quickly build a new page using LayoutHub’s templates
 
@@ -87,7 +90,7 @@ Learn more about **Duplicate a page**, check [this article](../../page-and-secti
 
 ### 5. Delete and mange deleted page
 
-If you want to delete a template, you will first need to move the template to the Trash section.&#x20;
+If you want to delete a template, you will first need to move the template to the Trash section.
 
 If you accidentally delete any pages or sections, you can restore them from Trash within the next 30 days. **After this time, they will be deleted forever and there’s no way to retrieve them**.
 
@@ -103,19 +106,19 @@ In this example, the Homepage will be moved to the Trash:
 
 ### 6. Make a page as default template and restore default template
 
-* **Make a page the default template:** this option sets your LayoutHub page as the main template used for that page type on your store (e.g., Homepage, Product Page). Once applied, customers will see this page when they visit that part of your store.&#x20;
+* **Make a page the default template:** this option sets your LayoutHub page as the main template used for that page type on your store (e.g., Homepage, Product Page). Once applied, customers will see this page when they visit that part of your store.
 * **Restore default template:** this option switches the page type back to Shopify’s original built-in template. Use it when you want to stop using a LayoutHub page or reset the layout to the default version.
 
 {% hint style="info" %}
 Learn more about **Make and Restore Default Templates** in [this article](../../page-and-section-management/make-and-restore-default-templates.md).
 {% endhint %}
 
-#### **Example:**&#x20;
+#### **Example:**
 
-&#x20;The product page created with LayoutHub will be set as the default template displayed for all products.
+The product page created with LayoutHub will be set as the default template displayed for all products.
 
 {% hint style="success" %}
-Steps:&#x20;
+Steps:
 
 1. Select **Product** in page category.
 2. Choose Product page and click **Make Default** (appear when hover mouse pointer to the page)
@@ -123,10 +126,10 @@ Steps:&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-26 at 14.14.26.png" alt=""><figcaption></figcaption></figure>
 
-After setting the product page created with LayoutHub as the default template and need to restore the Shopify Original Product Template.&#x20;
+After setting the product page created with LayoutHub as the default template and need to restore the Shopify Original Product Template.
 
 {% hint style="success" %}
-&#x20;Step: Hover the mouse pointer over Shopify Original Product Template then click **Restore default template**&#x20;
+Steps: Hover the mouse pointer over Shopify Original Product Template then click **Restore default template**
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-26 at 14.47.24.png" alt=""><figcaption></figcaption></figure>
