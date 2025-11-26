@@ -34,19 +34,20 @@ See more details about LayoutHub plans and pricing at [this article](../../getti
 
 Displays your recently edited pages and provides quick access so you can resume your work instantly.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-11-20 at 14.27.19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-25 at 15.20.28.png" alt=""><figcaption></figcaption></figure>
 
 #### Components
 
 1. **Page Category**: groups pages by page type.
-2. **Search**: search pages by name.
+2. **Search**: search pages by name, create filters by page type, status and version.
 3. **Sort**: sort pages based on selected conditions.
 4. **Create a new page**: create a new page.
 5. **Page list:** displayed based on the selected Category and Sort options.&#x20;
+6. **Quick action options**: Displays quick action options for your page, such as Edit and Preview.
 
-**Pro tip**: You can hover on each page to use quick action options.
+**Pro tip**: You can open the quick action dropdown to access advanced options such as [Make default](../../page-and-section-management/set-and-restore-default-templates.md), [Analytics](../../page-and-section-management/build-in-advance-features/analytics.md), and [Duplicate](../../page-and-section-management/duplicate-a-template.md).
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-11-20 at 15.44.45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-26 at 08.45.31.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 To learn more about page management, please check [this article](page-management.md).

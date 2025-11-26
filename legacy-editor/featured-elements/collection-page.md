@@ -92,7 +92,7 @@ Remember, you have to follow available syntax for displaying.
 
 * Style sidebar
 
-![Left sidebar](broken-reference)
+![Left sidebar](/broken/files/E0wrDaYCYEE32PBmNxI7)
 
 ![Right sidebar](<../../.gitbook/assets/image (305).png>)
 

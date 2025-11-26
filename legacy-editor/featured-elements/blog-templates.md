@@ -38,7 +38,7 @@ How to create Blog template?
 
 #### 3.2.3 - Label blog
 
-![](broken-reference)
+![](/broken/files/XtwvfUPHJbXWOZyeTI6x)
 
 #### 3.2.4 - Blog image size
 

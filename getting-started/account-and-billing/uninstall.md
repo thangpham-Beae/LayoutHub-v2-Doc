@@ -41,12 +41,12 @@ By uninstalling, you agree to the following terms and accept responsibility for 
 ## How to uninstall LayoutHub?
 
 {% hint style="info" %}
-If you want to remove all custom layouts and bring back the original theme, please check [this article](../../page-and-section-management/restore-default-template.md).
+If you want to remove all custom layouts and bring back the original theme, please check [this article](/broken/pages/H13gDQhZaMXjd2cqC988).
 {% endhint %}
 
 {% stepper %}
 {% step %}
-**Access the uninstall process**
+#### **Access the uninstall process**
 
 {% hint style="success" %}
 Steps:
@@ -59,13 +59,13 @@ Steps:
 {% endstep %}
 
 {% step %}
-**Confirm uninstall process**
+#### **Confirm uninstall process**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-19 at 09.43.24.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**Uninstalled successfully**
+#### **Uninstalled successfully**
 
 After confirming the uninstall, the uninstall process will take place. The Shopify system will take you to Apps and sales channels and notify you that the uninstall was successful.
 
