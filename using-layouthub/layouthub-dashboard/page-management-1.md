@@ -7,7 +7,7 @@ hidden: true
 
 ## Overview
 
-In this article you will be introduced to Page, its functions and how to use it to manage your page.
+In this article you will be introduced to Page, its functions and how to use it to manage your page effectively.
 
 ## What is Pages?
 
@@ -31,7 +31,7 @@ Click **Pages** on Shopify side bar to access Pages.
 6. [Make a page as default template and restore default template](page-management-1.md#make-a-page-as-default-template-and-restore-default-template)&#x20;
 7. [Track page metrics with page analytics](page-management-1.md#track-page-metrics-with-page-analytics)
 
-### Find your page based on page type
+### 1. Find your page based on page type
 
 If you have a lot of pages created, you can easily manage and search for the page you need with Page category
 
@@ -47,7 +47,7 @@ LayoutHub currently supports creating 7 page types:&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-26 at 11.46.17.png" alt=""><figcaption></figcaption></figure>
 
-### Export and Import
+### 2. Export and Import
 
 Export and Import allow you to save your page to your device and reuse it whenever needed.&#x20;
 
@@ -65,7 +65,7 @@ Lean more about how to use Export and Import feature in [this article](../../pag
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-26 at 11.57.56.png" alt=""><figcaption></figcaption></figure>
 
-### Create a new page&#x20;
+### 3. Create a new page&#x20;
 
 Quickly build a new page using LayoutHub’s templates
 
@@ -75,7 +75,7 @@ Learn more about create a new page, check [this article](../../page-and-section-
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-26 at 13.22.24.png" alt=""><figcaption></figcaption></figure>
 
-### Duplicate a page
+### 4. Duplicate a page
 
 Use Duplicate page to instantly clone an existing page so you can reuse or edit it without starting over.
 
@@ -85,7 +85,7 @@ Learn more about **Duplicate a page**, check [this article](../../page-and-secti
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-26 at 13.27.23 (1).png" alt=""><figcaption></figcaption></figure>
 
-### Delete and mange deleted page
+### 5. Delete and mange deleted page
 
 If you want to delete a template, you will first need to move the template to the Trash section.&#x20;
 
@@ -101,7 +101,7 @@ In this example, the Homepage will be moved to the Trash:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-26 at 13.47.49.png" alt=""><figcaption></figcaption></figure>
 
-### Make a page as default template and restore default template
+### 6. Make a page as default template and restore default template
 
 * **Make a page the default template:** this option sets your LayoutHub page as the main template used for that page type on your store (e.g., Homepage, Product Page). Once applied, customers will see this page when they visit that part of your store.&#x20;
 * **Restore default template:** this option switches the page type back to Shopify’s original built-in template. Use it when you want to stop using a LayoutHub page or reset the layout to the default version.
@@ -131,8 +131,18 @@ After setting the product page created with LayoutHub as the default template an
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-26 at 14.47.24.png" alt=""><figcaption></figcaption></figure>
 
-### Track page metrics with page analytics
+### 7. Track page metrics with page analytics
 
 Page Analytics helps you track how your page performs by showing key metrics such as views, clicks, and user behavior. This feature allows you to understand how visitors interact with your page so you can make better design and content decisions to improve conversions.
 
-Learn more about Analytic feature in [this article](/broken/pages/Xqn6sLC1GzHH3xhbL7XP).
+To create an analytics campaign for a page, simply **select the page** you want to track and click the **Analytics** button.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-26 at 15.14.40.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Learn more about Analytic feature in [this article](../../store-optimization/page-analytics.md).
+{% endhint %}
+
+We hope this article will help you understand and use Pages to manage LayoutHub Page more effectively ❤️.
+
+{% include "../../.gitbook/includes/have-a-question-contact-us-....md" %}

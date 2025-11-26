@@ -51,6 +51,15 @@
 * [Manage and recover deleted page](page-and-section-management/detele-and-restore-deleted-template.md)
 * [Integrations](page-and-section-management/integrations.md)
 
+## Store optimization
+
+* [Overview](store-optimization/overview.md)
+* [Page Analytics](store-optimization/page-analytics.md)
+* [A/B testing](store-optimization/a-b-testing.md)
+* [Live translate](store-optimization/live-translate.md)
+* [Multi-market support](store-optimization/multi-market-support.md)
+* [Performance and SEO](store-optimization/performance-and-seo.md)
+
 ## Legacy Editor
 
 * [Layout Management](legacy-editor/layout-management/README.md)
