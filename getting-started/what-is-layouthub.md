@@ -64,7 +64,7 @@ LayoutHub provides a newly redesigned template library focused on performance an
 
 LayoutHub integrates advanced features directly into the Editor, including A/B testing, Analytics, Performance and SEO optimization, Live Translate, and Multi-Market support. Everything you need to optimize and scale your business. All in one place.
 
-[Learn more](../page-and-section-management/build-in-advance-features/overview.md)
+[Learn more](/broken/pages/eqw0J3hO9bJ9yEBFoD5Y)
 
 </details>
 

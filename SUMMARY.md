@@ -45,18 +45,11 @@
   * [Blog post](page-and-section-management/page-creation/blog-post.md)
 * [LayoutHub Shopify Section](page-and-section-management/layouthub-shopify-section.md)
 * [Publish and Unpublish](page-and-section-management/publish-and-unpublish.md)
-* [Set and Restore Default Templates](page-and-section-management/set-and-restore-default-templates.md)
+* [Make and Restore Default Templates](page-and-section-management/make-and-restore-default-templates.md)
 * [Export/Import](page-and-section-management/export-import.md)
 * [Duplicate a page](page-and-section-management/duplicate-a-page.md)
 * [Manage and recover deleted page](page-and-section-management/detele-and-restore-deleted-template.md)
 * [Integrations](page-and-section-management/integrations.md)
-* [Build-in Advance Features](page-and-section-management/build-in-advance-features/README.md)
-  * [Advance Features Overview](page-and-section-management/build-in-advance-features/overview.md)
-  * [Page Analytics](page-and-section-management/build-in-advance-features/analytics.md)
-  * [A/B testing](page-and-section-management/build-in-advance-features/a-b-testing.md)
-  * [Performance](page-and-section-management/build-in-advance-features/performance.md)
-  * [Live Translation](page-and-section-management/build-in-advance-features/live-translation.md)
-  * [Multi market support](page-and-section-management/build-in-advance-features/multi-market-support.md)
 
 ## Legacy Editor
 

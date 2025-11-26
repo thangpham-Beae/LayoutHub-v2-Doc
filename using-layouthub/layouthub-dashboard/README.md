@@ -33,8 +33,8 @@ Tip: In the main workspace, there is always a chat box so you can contact the La
 [page-management.md](page-management.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../page-and-section-management/build-in-advance-features/analytics.md" %}
-[analytics.md](../../page-and-section-management/build-in-advance-features/analytics.md)
+{% content-ref url="/broken/pages/Xqn6sLC1GzHH3xhbL7XP" %}
+[Broken link](/broken/pages/Xqn6sLC1GzHH3xhbL7XP)
 {% endcontent-ref %}
 
 {% content-ref url="function/" %}
