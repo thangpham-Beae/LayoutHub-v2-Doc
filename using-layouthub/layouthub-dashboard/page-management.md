@@ -38,7 +38,7 @@ If you have a lot of pages created, you can easily manage and search for the pag
 LayoutHub currently supports creating 7 page types:&#x20;
 
 1. [Regular](../../page-and-section-management/page-creation/regular-page.md)
-2. [Home](../../legacy-editor/featured-elements/homepage)
+2. [Home](../../legacy-editor/featured-elements/homepage/)
 3. [Product ](../../page-and-section-management/page-creation/product-page.md)
 4. [Collection](../../page-and-section-management/page-creation/collection-page.md)
 5. [Blog](../../page-and-section-management/page-creation/blog-page.md)
@@ -70,7 +70,7 @@ Lean more about how to use Export and Import feature in [this article](../../pag
 Quickly build a new page using LayoutHub’s templates
 
 {% hint style="info" %}
-Learn more about create a new page, check [this article](../../page-and-section-management/page-creation).
+Learn more about create a new page, check [this article](../../page-and-section-management/page-creation/).
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-26 at 13.22.24.png" alt=""><figcaption></figcaption></figure>
