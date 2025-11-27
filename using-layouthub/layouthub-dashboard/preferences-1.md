@@ -1,6 +1,5 @@
 ---
 description: Control how LayoutHub integrates and works with your theme.
-hidden: true
 ---
 
 # Preferences

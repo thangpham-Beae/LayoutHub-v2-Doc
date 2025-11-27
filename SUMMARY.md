@@ -20,7 +20,6 @@
 * [LayoutHub Dashboard](using-layouthub/layouthub-dashboard/README.md)
   * [Welcome Dashboard](using-layouthub/layouthub-dashboard/welcome-dashboard.md)
   * [Page management](using-layouthub/layouthub-dashboard/page-management.md)
-  * [Copy Page management](using-layouthub/layouthub-dashboard/page-management-1.md)
   * [Analytic](using-layouthub/layouthub-dashboard/analytic.md)
   * [Functions](using-layouthub/layouthub-dashboard/function/README.md)
     * [Global Theme Style](using-layouthub/layouthub-dashboard/function/global-theme-style.md)
