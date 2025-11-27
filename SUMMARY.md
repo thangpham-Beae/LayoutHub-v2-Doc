@@ -26,7 +26,6 @@
     * [Global Theme Style](using-layouthub/layouthub-dashboard/function/global-theme-style.md)
     * [Swatch colors v2.0](using-layouthub/layouthub-dashboard/function/swatch-colors-v2.0.md)
   * [Preferences](using-layouthub/layouthub-dashboard/preferences.md)
-  * [Copy of Preferences](using-layouthub/layouthub-dashboard/preferences-1.md)
 * [LayoutHub Editor V2](using-layouthub/layouthub-editor/README.md)
   * [Overview](using-layouthub/layouthub-editor/overview.md)
   * [Editor Features](using-layouthub/layouthub-editor/editor-features/README.md)
