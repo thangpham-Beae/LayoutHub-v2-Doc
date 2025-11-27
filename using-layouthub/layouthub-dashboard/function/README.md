@@ -31,8 +31,8 @@ We strongly encourage you to start moving to the new editor v2.0 standards for t
 
 ## In this series:
 
-{% content-ref url="global-theme-style.md" %}
-[global-theme-style.md](global-theme-style.md)
+{% content-ref url="global-theme-style/" %}
+[global-theme-style](global-theme-style/)
 {% endcontent-ref %}
 
 {% content-ref url="../../../legacy-editor/settings/swatch-color-settings.md" %}
