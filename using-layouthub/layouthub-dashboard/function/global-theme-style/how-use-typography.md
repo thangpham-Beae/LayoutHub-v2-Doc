@@ -54,6 +54,4 @@ Yes, typography can **work independently on Desktop, Tablet and Mobile**.
 
 We hope this article helps you understand how to use Typography feature in Global Theme style to customize typography presets and reuse them.
 
-###
-
 {% include "../../../../.gitbook/includes/have-a-question-contact-us-....md" %}
