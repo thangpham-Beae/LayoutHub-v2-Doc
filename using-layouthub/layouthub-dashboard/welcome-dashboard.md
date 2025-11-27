@@ -45,12 +45,12 @@ Displays your recently edited pages and provides quick access so you can resume 
 5. **Page list:** displayed based on the selected Category and Sort options.&#x20;
 6. **Quick action options**: Displays quick action options for your page, such as Edit and Preview.
 
-**Pro tip**: You can open the quick action dropdown to access advanced options such as [Make default](../../page-and-section-management/make-and-restore-default-templates.md), [Analytics](/broken/pages/Xqn6sLC1GzHH3xhbL7XP), and [Duplicate](/broken/pages/j1er5Kk17BkcpqYakK9Y).
+**Pro tip**: You can open the quick action dropdown to access advanced options such as [Make default](../../page-and-section-management/make-and-restore-default-templates.md), [Analytics](../../store-optimization/page-analytics.md), and [Duplicate](../../page-and-section-management/duplicate-a-page.md).
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-27 at 11.53.53.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-To learn more about page management, please check [this article](/broken/pages/CwD0pWIROehAtJEHitMO).
+To learn more about page management, please check [this article](../../page-and-section-management/page-creation/).
 {% endhint %}
 
 ### Support channels <a href="#support-channels" id="support-channels"></a>

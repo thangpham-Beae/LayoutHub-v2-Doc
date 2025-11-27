@@ -9,27 +9,30 @@ hidden: true
 
 In this article we will guide you to **Color** and **customize Scheme** to have a consistent style in all pages.
 
-### How use Colors?
+## How to use Colors?
 
 By default, Color will have 3 Schemes and 1 option set for Other colors. You can click **Add Scheme** to create your own Scheme.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2025-11-27 at 14.43.55.png" alt=""><figcaption></figcaption></figure>
+\[ Screenshot ]
 
-## How to customize Scheme?
+## What's in a Scheme?
 
-Click the scheme you want to edit to open the Scheme Editing Panel.&#x20;
+The settings of a Scheme include color configurations divided into two parts:&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2025-11-27 at 15.24.25.png" alt=""><figcaption></figcaption></figure>
+1. Section color.
+2. Button color.
 
-#### **Section Settings:**
+\[ Screenshot ]
 
-* **Background**
-* **Heading text**
-* **Body text**
+### 1. Section colors:
 
-#### **Button Settings:**
+The basic colors of a section include: Background, Heading text and Body text.
 
-Button settings are divided into two states:
+\[ Screenshot ]
+
+### **2. Button colors:**
+
+Button color has two states:
 
 **Normal:**
 
@@ -37,11 +40,25 @@ Button settings are divided into two states:
 * **Label** – the text color
 * **Outline** – the outline color of the button
 
+\[ Screenshot ]
+
 **Hover:**
 
 * **Background tone** – adds a color layer on top of the button background
 * **Label** – adds a color layer on top of the text
 * **Outline** – adds a color layer on top of the outline
 
+\[ Screenshot ]
+
 Dragging the slider to the left applies a white tone layer, while dragging to the right applies a black tone layer.\
 The further you move the slider toward either side, the less transparent the tone layer becomes.
+
+## How to change color in Scheme?
+
+You can change a color using the **color picker** or by entering a **Hex color code**.&#x20;
+
+\[ Screenshot ]
+
+We hope this article helps you understand how to use Color in Global Theme style to set consistent colors for your theme.
+
+{% include "../../../../.gitbook/includes/have-a-question-contact-us-....md" %}
