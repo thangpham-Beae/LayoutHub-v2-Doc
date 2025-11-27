@@ -63,6 +63,10 @@ These options in Editor settings are for **Legacy Editor version** only.&#x20;
 * **Reload page after added to cart:** By default, we will redirect to the cart page after you add to the cart, if this option is enabled, it will reload the current page instead of going to the shopping cart page.
 * **JQuery:** improve compatibility with animations, events, and dynamic features.
 
+**Why does it show "Incorrect password" even after I changed my password and updated it in Store Settings?**
+
+If you update your password multiple times in a short period, Shopify may temporarily block requests for security reasons. Please wait around **15 minutes**, then try updating the password again.
+
 {% hint style="info" %}
 If you haven’t upgraded to the latest Editor V2 yet, we encourage you to do so for a faster, easier, and more powerful page-building experience.
 {% endhint %}

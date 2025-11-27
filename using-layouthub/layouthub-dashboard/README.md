@@ -29,8 +29,8 @@ Tip: In the main workspace, there is always a chat box so you can contact the La
 [welcome-dashboard.md](welcome-dashboard.md)
 {% endcontent-ref %}
 
-{% content-ref url="page-management.md" %}
-[page-management.md](page-management.md)
+{% content-ref url="/broken/pages/CwD0pWIROehAtJEHitMO" %}
+[Broken link](/broken/pages/CwD0pWIROehAtJEHitMO)
 {% endcontent-ref %}
 
 {% content-ref url="/broken/pages/Xqn6sLC1GzHH3xhbL7XP" %}

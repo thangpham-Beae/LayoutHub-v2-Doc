@@ -8,7 +8,7 @@ description: Introduction and learning how to use the welcome dashboard
 
 In this article, we will introduce you to the welcome dashboard, its components and their functions.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-11-20 at 13.28.00.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-27 at 11.44.54.png" alt=""><figcaption></figcaption></figure>
 
 ## What is Wellcome Dashboard?&#x20;
 
@@ -18,13 +18,13 @@ The Welcome Dashboard is the first screen you see when accessing the LayoutHub a
 
 Displays basic information about your pla&#x6E;**,** you can use this information to manage your plan and publish slots, and decide whether you need to upgrade.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-11-20 at 13.35.02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-27 at 11.47.50.png" alt=""><figcaption></figcaption></figure>
 
 In this example:
 
-* Plan name: PayG 10-slots
-* Number of publish slots: 10 slots
-* Publish slots used: 3 slots
+* Plan name: PayG 30-slots
+* Number of publish slots: 30 slots
+* Publish slots used: 13 slots
 
 {% hint style="info" %}
 See more details about LayoutHub plans and pricing at [this article](../../getting-started/account-and-billing/plan-and-pricing.md).
@@ -34,7 +34,7 @@ See more details about LayoutHub plans and pricing at [this article](../../getti
 
 Displays your recently edited pages and provides quick access so you can resume your work instantly.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-11-25 at 15.20.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-27 at 11.48.39.png" alt=""><figcaption></figcaption></figure>
 
 #### Components
 
@@ -47,10 +47,10 @@ Displays your recently edited pages and provides quick access so you can resume 
 
 **Pro tip**: You can open the quick action dropdown to access advanced options such as [Make default](../../page-and-section-management/make-and-restore-default-templates.md), [Analytics](/broken/pages/Xqn6sLC1GzHH3xhbL7XP), and [Duplicate](/broken/pages/j1er5Kk17BkcpqYakK9Y).
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-11-26 at 08.45.31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-27 at 11.53.53.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-To learn more about page management, please check [this article](page-management.md).
+To learn more about page management, please check [this article](/broken/pages/CwD0pWIROehAtJEHitMO).
 {% endhint %}
 
 ### Support channels <a href="#support-channels" id="support-channels"></a>
