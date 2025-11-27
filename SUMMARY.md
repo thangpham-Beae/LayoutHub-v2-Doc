@@ -113,6 +113,6 @@
 
 * [Product review](shopify-apps-integration/product-review.md)
 
-***
+## Structure
 
-* [Structure](structure.md)
+* [Overview](structure/overview.md)
