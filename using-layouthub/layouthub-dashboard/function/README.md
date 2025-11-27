@@ -17,16 +17,6 @@ In the Functions page, you can browse all available features, activate the ones 
 
 Click **Functions** Shopify side bar to access Functions.
 
-{% hint style="warning" %}
-**Important Notice: Legacy Items in editor v2.0**
-
-Items marked as Legacy will not be supported in editor v2.0.
-
-If you are currently using the older editor v1.0, your existing setup will continue to work without interruption.
-
-We strongly encourage you to start moving to the new editor v2.0 standards for the best experience, access to new features, and ongoing support.
-{% endhint %}
-
 <figure><img src="../../../.gitbook/assets/Screenshot 2025-11-27 at 13.59.53.png" alt=""><figcaption></figcaption></figure>
 
 ## In this series:
