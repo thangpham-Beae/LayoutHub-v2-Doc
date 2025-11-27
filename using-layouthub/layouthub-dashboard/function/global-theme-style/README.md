@@ -18,7 +18,7 @@ Global Theme Style includes three main style groups:
 * **Typography**
 * **Button Style**
 
-Global theme style can **work independently on Desktop, Tablet and Mobile**.
+Typography and Button Style can **work independently on Desktop, Tablet and Mobile**.
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2025-11-27 at 14.37.49.png" alt=""><figcaption></figcaption></figure>
 

@@ -44,8 +44,16 @@ You can adjust typography directly through the Heading Size or Text Size options
 
 ### I can't find the font family I need?
 
-Font family are provided by Google Fonts. If you want to add a custom font that is not available in Google Fonts, please contact our support team for assistance.
+Font family are provided by Google Fonts. If you want to add a custom font that is not available in Google Fonts, please contact our support team for assistance.&#x20;
+
+### Can I set typography for different devices?
+
+Yes, typography can **work independently on Desktop, Tablet and Mobile**.
+
+\[ Screenshot ]
 
 We hope this article helps you understand how to use Typography feature in Global Theme style to customize typography presets and reuse them.
+
+###
 
 {% include "../../../../.gitbook/includes/have-a-question-contact-us-....md" %}
