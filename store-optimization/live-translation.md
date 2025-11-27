@@ -1,4 +1,4 @@
-# Live translate
+# Live translation
 
 ### 📘 Documentation Coming Soon
 
