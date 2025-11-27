@@ -113,7 +113,7 @@ CSS added here will affect your entire current theme, including pages created in
 Steps:
 
 1. Add your CSS code.
-2. Click the **Save button.**
+2. Click the **Save button** to save and apply your code to all page in your theme.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-25 at 14.10.34 (1).png" alt=""><figcaption></figcaption></figure>
