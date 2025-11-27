@@ -3,7 +3,7 @@ description: Control how LayoutHub integrates and works with your theme.
 hidden: true
 ---
 
-# Copy of Preferences
+# Preferences
 
 ## Overview&#x20;
 
@@ -122,15 +122,10 @@ Steps:
 
 Cancel LayoutHub subscription and downgrade to Free plan. To cancel your plan, click **Cancel Plan**.&#x20;
 
-{% hint style="warning" %}
-Canceling your plan will switch your account back to **the Free plan**. If you have more than one published page, the system will ask you to **unpublish additional pages and keep only one published page**.\
-To learn how to unpublish a page, please check [this article](../../page-and-section-management/publish-and-unpublish.md).
-{% endhint %}
-
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-25 at 14.19.47.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="danger" %}
-This section includes critical actions that may impact your data or app configuration. Please proceed carefully.
-{% endhint %}
+**Note**: Canceling your plan will Downgrade your account back to **the Free plan**. If you have more than one published page, the system will ask you to unpublish extra pages or sections before downgrading. To learn how to unpublish a page, please check [this article](../../page-and-section-management/publish-and-unpublish.md).
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-27 at 13.48.25.png" alt=""><figcaption></figcaption></figure>
 
 {% include "../../.gitbook/includes/have-a-question-contact-us-....md" %}
