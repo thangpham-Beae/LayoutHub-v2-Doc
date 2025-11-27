@@ -104,7 +104,7 @@ Click **Enable now** to enable LayoutHub theme app extensions.
 Add your custom CSS for advanced editing.
 
 {% hint style="warning" %}
-Note: CSS added here will affect your entire current theme, including pages created in LayoutHub and all remaining pages in your current theme.
+CSS added here will affect your entire current theme, including pages created in LayoutHub and all remaining pages in your current theme.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-25 at 14.16.08.png" alt=""><figcaption></figcaption></figure>
@@ -120,21 +120,17 @@ Steps:
 
 ### 8. Danger zone
 
-Cancel LayoutHub subscription and downgrade to Free plan.
+Cancel LayoutHub subscription and downgrade to Free plan. To cancel your plan, click **Cancel Plan**.&#x20;
 
 {% hint style="warning" %}
-What happened if I downgrade my plan? Check [this article](../../faq-and-common-issues/faq/what-heppened-if-i-downgrade-my-plan.md).
+Canceling your plan will switch your account back to **the Free plan**. If you have more than one published page, the system will ask you to **unpublish additional pages and keep only one published page**.\
+To learn how to unpublish a page, please check [this article](../../page-and-section-management/publish-and-unpublish.md).
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-25 at 14.19.47.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-Steps:
-
-1. Click **Cancel plan**.
-2.
-{% endhint %}
-
 {% hint style="danger" %}
 This section includes critical actions that may impact your data or app configuration. Please proceed carefully.
 {% endhint %}
+
+{% include "../../.gitbook/includes/have-a-question-contact-us-....md" %}
