@@ -6,7 +6,7 @@ description: Get familiar with LayoutHub's functions and learn how to use them.
 
 ## Overview
 
-In this series, we will introduce you to the LayoutHub Dashboard interface and the features available within it.&#x20;
+In this series, we will introduce you to the LayoutHub Functions and the features available within it.&#x20;
 
 ## What is Functions?
 
