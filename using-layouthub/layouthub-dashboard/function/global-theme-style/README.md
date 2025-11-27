@@ -45,8 +45,8 @@ To learn more about how to use the Global theme style features, please check the
 [how-to-use-color.md](how-to-use-color.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../layouthub-editor/editor-features/how-to-use-variant-picker.md" %}
-[how-to-use-variant-picker.md](../../../layouthub-editor/editor-features/how-to-use-variant-picker.md)
+{% content-ref url="how-use-typography.md" %}
+[how-use-typography.md](how-use-typography.md)
 {% endcontent-ref %}
 
 {% content-ref url="how-use-buttons.md" %}
