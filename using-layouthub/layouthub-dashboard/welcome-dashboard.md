@@ -10,7 +10,7 @@ In this article, we will introduce you to the welcome dashboard, its components 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-27 at 11.44.54.png" alt=""><figcaption></figcaption></figure>
 
-## What is Wellcome Dashboard?&#x20;
+## What is Welcome Dashboard?&#x20;
 
 The Welcome Dashboard is the first screen you see when accessing the LayoutHub app. It gives you a quick overview of key information, including [**Plan and usage**](welcome-dashboard.md#plan-usage), [**Recently edited**](welcome-dashboard.md#recntly-edtited), and [**Support channels**](welcome-dashboard.md#support-channels).&#x20;
 
